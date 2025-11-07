@@ -80,9 +80,16 @@ class FertilizerPredictor:
         --------
         str : Recommended fertilizer name
         """
-        # Encode categorical variables
-        soil_encoded = self.le_soil.transform([soil_type])[0]
-        crop_encoded = self.le_crop.transform([crop_type])[0]
+        # Validate and encode categorical variables
+        try:
+            soil_encoded = self.le_soil.transform([soil_type])[0]
+        except ValueError:
+            raise ValueError(f"Unknown soil type '{soil_type}'. Valid types: {self.model_info['soil_types']}")
+        
+        try:
+            crop_encoded = self.le_crop.transform([crop_type])[0]
+        except ValueError:
+            raise ValueError(f"Unknown crop type '{crop_type}'. Valid types: {self.model_info['crop_types']}")
         
         # Create feature vector
         features = [[temperature, humidity, moisture, nitrogen, 

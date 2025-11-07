@@ -8,6 +8,8 @@ WORKDIR /app
 COPY requirements.txt .
 
 # Install dependencies
+# Note: --trusted-host flags are used for CI/CD environments with SSL certificate issues
+# For production, use proper SSL certificates or configure pip with trusted certificate authority
 RUN pip install --no-cache-dir --trusted-host pypi.org --trusted-host files.pythonhosted.org -r requirements.txt
 
 # Copy application code

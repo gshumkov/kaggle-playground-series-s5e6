@@ -5,11 +5,12 @@ Train and save a machine learning model for fertilizer prediction
 import pandas as pd
 import numpy as np
 import pickle
+import os
+import json
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
-import json
 
 def load_data(train_path='data/train.csv'):
     """Load training data"""
@@ -102,7 +103,6 @@ def evaluate_model(model, X_val, y_val, le_fertilizer):
 
 def save_model(model, le_soil, le_crop, le_fertilizer, model_path='model'):
     """Save the trained model and encoders"""
-    import os
     os.makedirs(model_path, exist_ok=True)
     
     # Save model

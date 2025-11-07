@@ -11,18 +11,13 @@ from predict import FertilizerPredictor
 
 app = Flask(__name__)
 
-# Initialize predictor
-predictor = None
-
-@app.before_request
-def initialize():
-    """Initialize predictor before first request"""
-    global predictor
-    if predictor is None:
-        try:
-            predictor = FertilizerPredictor(model_path='model')
-        except Exception as e:
-            print(f"Error initializing predictor: {e}")
+# Initialize predictor at module level
+try:
+    predictor = FertilizerPredictor(model_path='model')
+    print("Predictor initialized successfully")
+except Exception as e:
+    print(f"Error initializing predictor: {e}")
+    predictor = None
 
 @app.route('/')
 def home():

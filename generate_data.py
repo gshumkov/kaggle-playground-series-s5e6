@@ -3,8 +3,12 @@ Generate sample fertilizer recommendation dataset
 """
 import pandas as pd
 import numpy as np
+import os
 
 np.random.seed(42)
+
+# Ensure data directory exists
+os.makedirs('data', exist_ok=True)
 
 # Define fertilizers and their typical conditions
 fertilizers = {
