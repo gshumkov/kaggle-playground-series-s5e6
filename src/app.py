@@ -108,9 +108,13 @@ def predict():
         })
         
     except ValueError as e:
+        # ValueError contains user-friendly validation messages (not stack traces)
+        # These are safe to expose as they provide helpful feedback about invalid inputs
         return jsonify({'error': f'Invalid input value: {str(e)}'}), 400
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        # Log the actual error for debugging but don't expose details to user
+        print(f"Prediction error: {str(e)}")
+        return jsonify({'error': 'An error occurred during prediction. Please check your input and try again.'}), 500
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=False)
