@@ -1,0 +1,40 @@
+{
+  "feature_names": [
+    "Temperature",
+    "Humidity",
+    "Moisture",
+    "Nitrogen",
+    "Potassium",
+    "Phosphorous",
+    "Soil Type",
+    "Crop Type"
+  ],
+  "soil_types": [
+    "Black",
+    "Clayey",
+    "Loamy",
+    "Red",
+    "Sandy"
+  ],
+  "crop_types": [
+    "Barley",
+    "Cotton",
+    "Groundnut",
+    "Maize",
+    "Pulses",
+    "Rice",
+    "Soybean",
+    "Sugarcane",
+    "Tobacco",
+    "Wheat"
+  ],
+  "fertilizer_types": [
+    "Ammonium Sulphate",
+    "DAP",
+    "NPK 10-26-26",
+    "NPK 20-20-20",
+    "Potassium Chloride",
+    "SSP (Single Super Phosphate)",
+    "Urea"
+  ]
+}
