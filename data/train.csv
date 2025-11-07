@@ -1,0 +1,1597 @@
+Temperature,Humidity,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorous,Fertilizer Name
+22.42,49.29,65.86,Sandy,Maize,22.09,23.89,16.78,NPK 20-20-20
+25.37,82.64,63.3,Loamy,Maize,7.68,39.76,3.68,Potassium Chloride
+28.16,56.01,57.01,Sandy,Soybean,23.05,14.33,47.34,DAP
+24.03,88.73,66.72,Sandy,Barley,6.87,39.06,4.05,Potassium Chloride
+23.23,55.63,63.37,Black,Soybean,8.8,27.94,21.89,NPK 10-26-26
+30.13,74.86,36.51,Red,Wheat,5.45,31.79,4.95,Potassium Chloride
+27.03,47.2,73.65,Sandy,Barley,22.09,15.36,15.21,NPK 20-20-20
+24.25,80.48,45.63,Black,Barley,5.61,42.79,7.61,Potassium Chloride
+25.3,84.04,24.21,Sandy,Cotton,7.53,41.43,3.65,Potassium Chloride
+16.73,37.68,27.22,Black,Maize,21.16,5.6,8.51,Ammonium Sulphate
+24.56,59.54,77.67,Black,Sugarcane,15.06,10.71,41.99,DAP
+23.55,70.32,53.95,Loamy,Barley,22.51,12.73,36.88,DAP
+27.76,52.1,73.42,Red,Groundnut,7.49,11.09,15.97,SSP (Single Super Phosphate)
+24.77,68.36,27.86,Black,Groundnut,24.11,20.2,24.43,NPK 20-20-20
+23.76,41.74,70.7,Red,Cotton,20.61,5.79,6.04,Ammonium Sulphate
+22.12,51.71,75.95,Black,Cotton,21.22,17.98,22.07,NPK 20-20-20
+25.98,47.52,57.99,Clayey,Soybean,32.8,7.66,13.96,Urea
+29.47,86.7,59.05,Red,Groundnut,4.28,49.33,5.53,Potassium Chloride
+27.5,71.91,57.15,Clayey,Pulses,22.01,13.73,46.3,DAP
+23.97,77.98,44.82,Red,Wheat,12.71,20.83,22.55,NPK 10-26-26
+21.46,66.77,50.07,Sandy,Wheat,22.98,13.43,44.24,DAP
+27.62,72.04,36.22,Black,Sugarcane,18.82,18.3,24.57,NPK 20-20-20
+32.49,66.21,70.68,Red,Cotton,22.31,6.46,47.37,DAP
+23.67,54.62,27.68,Loamy,Rice,20.51,7.23,5.32,Ammonium Sulphate
+31.56,50.09,71.54,Clayey,Rice,19.76,11.34,36.66,DAP
+31.63,85.87,40.72,Black,Tobacco,6.17,36.49,6.86,Potassium Chloride
+20.45,70.26,22.69,Black,Wheat,20.32,10.75,48.2,DAP
+22.54,60.55,65.7,Clayey,Maize,19.45,6.17,42.57,DAP
+25.88,76.29,46.0,Red,Groundnut,5.57,44.6,4.82,Potassium Chloride
+22.16,53.52,51.24,Clayey,Groundnut,11.43,11.84,18.22,SSP (Single Super Phosphate)
+20.77,64.78,46.53,Black,Cotton,15.84,12.52,38.17,DAP
+15.35,33.25,45.25,Loamy,Barley,18.04,7.24,9.15,Ammonium Sulphate
+13.71,32.39,24.19,Sandy,Pulses,23.46,7.93,9.03,Ammonium Sulphate
+26.22,61.62,59.58,Red,Tobacco,19.01,13.83,36.73,DAP
+25.4,54.94,45.84,Loamy,Rice,9.76,8.05,16.52,SSP (Single Super Phosphate)
+20.46,52.79,31.23,Clayey,Sugarcane,7.08,5.65,15.76,SSP (Single Super Phosphate)
+23.78,61.78,65.42,Black,Wheat,40.69,14.13,21.25,Urea
+18.53,58.37,22.96,Red,Sugarcane,21.54,16.59,20.12,NPK 20-20-20
+26.81,73.47,39.8,Sandy,Soybean,5.97,43.68,5.95,Potassium Chloride
+30.09,74.78,60.39,Red,Rice,17.3,7.41,41.17,DAP
+27.48,59.02,26.95,Black,Tobacco,8.85,33.49,29.5,NPK 10-26-26
+20.21,58.08,30.33,Sandy,Maize,9.61,20.82,23.27,NPK 10-26-26
+14.45,38.4,28.76,Loamy,Tobacco,22.43,3.22,10.68,Ammonium Sulphate
+10.84,47.22,71.78,Clayey,Rice,21.53,7.86,9.52,Ammonium Sulphate
+24.37,56.23,34.29,Black,Soybean,19.86,5.4,48.81,DAP
+30.12,86.68,32.59,Loamy,Wheat,4.9,38.08,7.44,Potassium Chloride
+29.55,51.53,35.46,Sandy,Cotton,24.55,5.02,47.32,DAP
+27.7,68.66,29.28,Sandy,Tobacco,40.8,13.42,12.43,Urea
+21.96,50.6,55.02,Red,Sugarcane,42.4,6.88,14.16,Urea
+27.91,56.05,31.07,Sandy,Soybean,49.51,10.57,16.88,Urea
+19.13,73.02,31.01,Black,Cotton,18.69,20.18,16.36,NPK 20-20-20
+21.62,66.63,41.05,Loamy,Pulses,39.89,10.5,10.86,Urea
+21.71,35.75,23.0,Clayey,Groundnut,23.64,5.91,10.54,Ammonium Sulphate
+24.8,64.05,74.57,Clayey,Maize,15.23,22.81,19.44,NPK 20-20-20
+23.42,55.7,26.89,Loamy,Tobacco,34.51,13.51,13.76,Urea
+16.69,42.33,52.32,Sandy,Soybean,22.83,5.2,8.29,Ammonium Sulphate
+20.08,53.47,51.85,Clayey,Sugarcane,20.25,4.88,5.93,Ammonium Sulphate
+22.5,68.1,54.5,Clayey,Wheat,6.03,10.11,19.76,SSP (Single Super Phosphate)
+18.44,34.04,29.05,Sandy,Cotton,24.81,6.01,5.1,Ammonium Sulphate
+30.06,57.75,60.48,Sandy,Tobacco,18.9,13.82,45.95,DAP
+22.59,49.59,50.14,Black,Wheat,23.14,7.31,5.77,Ammonium Sulphate
+29.68,54.6,74.37,Black,Rice,42.73,10.9,13.76,Urea
+30.6,51.88,70.36,Sandy,Barley,20.11,7.76,35.7,DAP
+15.97,47.4,76.88,Black,Soybean,22.89,3.8,7.72,Ammonium Sulphate
+26.87,67.33,45.84,Sandy,Sugarcane,6.75,37.63,4.38,Potassium Chloride
+29.96,69.39,59.37,Black,Sugarcane,32.45,8.23,20.88,Urea
+24.0,40.89,70.68,Sandy,Maize,24.92,3.39,11.64,Ammonium Sulphate
+20.8,49.79,29.84,Loamy,Pulses,20.72,17.87,24.99,NPK 20-20-20
+21.16,60.04,47.5,Loamy,Tobacco,9.0,8.86,15.54,SSP (Single Super Phosphate)
+27.22,67.72,63.9,Clayey,Maize,24.06,16.54,20.16,NPK 20-20-20
+20.75,75.31,78.87,Clayey,Rice,16.66,7.09,41.68,DAP
+25.79,45.6,73.43,Black,Groundnut,16.2,21.85,19.84,NPK 20-20-20
+22.82,47.11,36.69,Loamy,Rice,20.34,19.1,23.79,NPK 20-20-20
+31.73,79.24,64.24,Loamy,Rice,9.57,26.58,25.45,NPK 10-26-26
+28.18,54.86,64.49,Black,Cotton,44.61,6.67,20.41,Urea
+21.8,77.5,63.24,Red,Soybean,18.03,10.63,39.35,DAP
+15.55,44.02,20.82,Red,Wheat,46.58,5.64,18.54,Urea
+28.23,61.4,56.43,Red,Pulses,20.66,5.85,42.72,DAP
+16.79,45.39,62.78,Sandy,Tobacco,20.23,5.16,10.57,Ammonium Sulphate
+21.34,66.83,60.16,Black,Sugarcane,19.97,16.92,19.2,NPK 20-20-20
+13.29,51.19,66.96,Black,Barley,20.14,3.24,10.21,Ammonium Sulphate
+21.28,63.71,54.93,Loamy,Groundnut,49.28,6.34,13.73,Urea
+23.59,65.92,59.06,Black,Barley,21.72,14.9,43.73,DAP
+23.97,55.24,58.85,Loamy,Maize,20.44,6.21,9.69,Ammonium Sulphate
+28.13,71.41,48.51,Red,Rice,8.68,31.96,22.69,NPK 10-26-26
+31.78,88.11,25.25,Sandy,Sugarcane,4.8,33.85,3.09,Potassium Chloride
+22.43,84.95,52.48,Sandy,Groundnut,8.87,21.64,27.88,NPK 10-26-26
+26.04,69.18,60.06,Loamy,Barley,7.11,44.36,5.56,Potassium Chloride
+28.05,53.49,45.12,Clayey,Wheat,8.61,5.54,17.53,SSP (Single Super Phosphate)
+13.47,45.27,73.27,Black,Groundnut,18.08,6.39,6.7,Ammonium Sulphate
+29.24,85.59,38.9,Black,Sugarcane,7.29,44.05,5.02,Potassium Chloride
+32.1,63.79,52.79,Clayey,Maize,21.8,7.75,36.14,DAP
+28.3,62.73,27.74,Sandy,Sugarcane,6.96,31.87,5.08,Potassium Chloride
+23.14,54.93,70.25,Red,Barley,20.91,22.45,22.19,NPK 20-20-20
+24.64,62.9,39.97,Sandy,Groundnut,7.42,11.22,14.95,SSP (Single Super Phosphate)
+20.54,73.11,59.7,Loamy,Cotton,6.84,6.88,12.36,SSP (Single Super Phosphate)
+26.77,63.54,21.11,Loamy,Barley,11.79,6.12,13.0,SSP (Single Super Phosphate)
+24.28,65.95,50.63,Black,Rice,23.74,6.27,38.05,DAP
+15.79,54.6,55.96,Black,Maize,32.08,12.03,13.38,Urea
+22.65,63.47,24.28,Loamy,Wheat,5.76,31.3,4.37,Potassium Chloride
+21.28,64.81,63.82,Clayey,Maize,16.02,15.05,15.49,NPK 20-20-20
+21.85,68.79,36.71,Sandy,Cotton,21.7,12.74,42.02,DAP
+24.24,45.64,41.32,Clayey,Pulses,34.08,12.33,18.33,Urea
+28.16,57.51,46.04,Loamy,Barley,7.61,11.47,17.38,SSP (Single Super Phosphate)
+22.34,35.67,62.07,Black,Barley,23.91,7.14,8.03,Ammonium Sulphate
+24.29,65.32,51.23,Clayey,Soybean,11.81,25.54,34.64,NPK 10-26-26
+27.66,76.06,75.91,Clayey,Wheat,5.01,47.52,6.59,Potassium Chloride
+28.83,62.5,70.24,Clayey,Pulses,7.58,31.13,6.89,Potassium Chloride
+22.78,44.51,64.25,Sandy,Soybean,42.73,5.67,19.21,Urea
+23.34,65.58,56.47,Black,Barley,17.42,6.05,40.31,DAP
+24.36,70.02,67.99,Sandy,Tobacco,23.45,24.86,20.82,NPK 20-20-20
+15.78,34.75,61.72,Loamy,Soybean,22.17,3.24,11.11,Ammonium Sulphate
+33.21,85.63,21.34,Red,Rice,6.35,36.94,5.35,Potassium Chloride
+10.78,43.08,57.39,Sandy,Maize,24.59,3.52,6.25,Ammonium Sulphate
+26.71,66.52,75.73,Loamy,Soybean,7.28,45.98,7.16,Potassium Chloride
+25.79,63.86,71.32,Loamy,Rice,7.27,47.37,5.36,Potassium Chloride
+29.95,50.3,52.46,Clayey,Wheat,7.68,9.51,13.63,SSP (Single Super Phosphate)
+26.87,52.89,33.47,Loamy,Maize,22.57,23.1,22.58,NPK 20-20-20
+24.95,71.69,56.39,Loamy,Sugarcane,4.64,48.82,5.44,Potassium Chloride
+28.07,66.44,31.56,Clayey,Cotton,7.6,6.34,18.64,SSP (Single Super Phosphate)
+25.52,57.92,27.58,Black,Groundnut,6.25,10.66,12.33,SSP (Single Super Phosphate)
+21.64,64.96,60.18,Red,Sugarcane,37.34,11.17,15.15,Urea
+19.13,38.65,29.62,Black,Rice,20.65,3.44,8.25,Ammonium Sulphate
+27.13,65.87,43.23,Black,Maize,7.11,10.42,13.61,SSP (Single Super Phosphate)
+14.07,35.56,60.88,Loamy,Groundnut,19.87,7.11,8.34,Ammonium Sulphate
+25.7,65.14,41.93,Loamy,Sugarcane,8.88,8.13,13.01,SSP (Single Super Phosphate)
+24.35,77.93,43.51,Clayey,Pulses,20.16,5.45,41.95,DAP
+20.13,39.71,24.78,Black,Wheat,22.26,5.4,6.54,Ammonium Sulphate
+23.54,60.87,26.77,Loamy,Maize,7.5,37.0,3.25,Potassium Chloride
+20.59,80.31,46.28,Sandy,Pulses,14.38,31.4,32.31,NPK 10-26-26
+24.59,66.56,67.36,Red,Tobacco,18.96,13.92,45.04,DAP
+29.56,65.23,68.33,Sandy,Soybean,10.51,28.77,27.94,NPK 10-26-26
+23.72,52.53,76.0,Sandy,Barley,22.81,3.9,10.2,Ammonium Sulphate
+21.18,68.48,76.43,Clayey,Tobacco,9.52,28.6,21.17,NPK 10-26-26
+33.84,70.87,56.65,Loamy,Maize,22.73,6.89,48.72,DAP
+23.84,31.7,21.77,Black,Pulses,21.45,6.27,8.95,Ammonium Sulphate
+13.23,36.01,79.43,Black,Rice,19.95,5.76,6.26,Ammonium Sulphate
+26.52,73.22,56.12,Loamy,Cotton,20.17,8.17,41.46,DAP
+27.5,62.36,72.23,Loamy,Wheat,21.96,6.72,45.53,DAP
+28.21,56.89,67.79,Clayey,Cotton,9.11,5.23,14.2,SSP (Single Super Phosphate)
+32.26,63.91,24.88,Clayey,Rice,3.07,48.77,7.05,Potassium Chloride
+28.32,84.72,36.67,Black,Groundnut,8.62,31.25,26.2,NPK 10-26-26
+23.13,58.89,74.65,Clayey,Cotton,21.94,7.16,43.29,DAP
+28.79,73.44,44.33,Red,Maize,10.7,10.62,18.15,SSP (Single Super Phosphate)
+23.35,69.46,71.32,Sandy,Maize,8.64,11.72,15.13,SSP (Single Super Phosphate)
+21.24,74.7,74.42,Red,Cotton,14.41,33.44,23.99,NPK 10-26-26
+26.7,43.43,53.95,Black,Soybean,47.22,14.75,13.29,Urea
+18.97,36.35,71.07,Clayey,Cotton,22.67,6.58,6.71,Ammonium Sulphate
+20.85,55.42,70.67,Red,Tobacco,6.54,11.33,17.2,SSP (Single Super Phosphate)
+31.21,67.07,48.13,Clayey,Wheat,13.55,33.99,34.72,NPK 10-26-26
+23.55,87.72,24.66,Clayey,Cotton,3.2,42.21,4.82,Potassium Chloride
+31.61,71.5,77.79,Clayey,Sugarcane,8.16,20.62,34.83,NPK 10-26-26
+15.56,57.89,33.8,Red,Rice,46.89,13.29,14.79,Urea
+25.54,73.45,63.44,Sandy,Tobacco,10.14,7.83,14.93,SSP (Single Super Phosphate)
+22.99,76.71,37.24,Black,Pulses,21.45,12.13,40.93,DAP
+11.34,33.8,69.6,Black,Maize,24.59,7.96,9.19,Ammonium Sulphate
+30.81,74.79,46.77,Red,Sugarcane,22.87,12.47,49.14,DAP
+29.87,69.12,76.54,Black,Maize,40.17,9.62,15.81,Urea
+22.3,64.49,67.89,Clayey,Sugarcane,7.37,7.51,13.79,SSP (Single Super Phosphate)
+28.69,47.45,54.66,Red,Barley,48.37,5.33,18.81,Urea
+32.14,73.59,57.93,Sandy,Tobacco,23.73,7.16,47.42,DAP
+23.69,70.83,24.7,Sandy,Sugarcane,16.09,18.37,18.97,NPK 20-20-20
+22.49,47.98,28.95,Red,Rice,37.43,11.46,13.99,Urea
+22.44,73.32,22.87,Loamy,Wheat,17.22,21.08,23.25,NPK 20-20-20
+28.71,54.18,46.64,Loamy,Cotton,24.66,8.47,43.37,DAP
+20.87,64.81,65.53,Clayey,Wheat,11.84,8.43,18.32,SSP (Single Super Phosphate)
+29.51,71.06,43.27,Red,Sugarcane,10.72,6.28,12.98,SSP (Single Super Phosphate)
+25.25,76.28,67.94,Black,Maize,6.4,32.72,7.49,Potassium Chloride
+17.97,35.6,45.53,Sandy,Cotton,24.68,7.02,10.43,Ammonium Sulphate
+18.2,51.16,49.22,Clayey,Sugarcane,24.33,22.3,18.83,NPK 20-20-20
+11.9,44.3,65.82,Red,Soybean,20.82,5.53,5.96,Ammonium Sulphate
+31.18,73.61,68.23,Clayey,Soybean,8.28,30.21,27.68,NPK 10-26-26
+18.97,59.36,55.75,Sandy,Groundnut,36.74,12.73,23.58,Urea
+22.95,78.54,79.69,Black,Tobacco,23.54,14.61,38.63,DAP
+23.58,73.76,29.29,Sandy,Cotton,11.33,26.04,30.05,NPK 10-26-26
+28.67,84.29,53.22,Clayey,Barley,3.92,37.84,5.12,Potassium Chloride
+30.67,75.78,34.61,Red,Sugarcane,10.21,30.23,31.83,NPK 10-26-26
+30.0,73.62,47.26,Clayey,Tobacco,17.69,13.95,40.53,DAP
+22.88,63.24,50.53,Loamy,Groundnut,7.77,44.17,3.71,Potassium Chloride
+28.91,57.42,75.89,Loamy,Rice,6.48,8.39,15.86,SSP (Single Super Phosphate)
+23.09,66.63,41.16,Sandy,Rice,18.54,21.72,16.32,NPK 20-20-20
+11.29,43.83,64.62,Clayey,Sugarcane,18.15,6.4,8.64,Ammonium Sulphate
+26.14,50.7,75.91,Red,Rice,11.62,6.58,19.46,SSP (Single Super Phosphate)
+20.61,71.27,65.14,Black,Sugarcane,20.23,15.43,23.74,NPK 20-20-20
+18.85,64.5,59.22,Clayey,Barley,16.71,22.05,23.73,NPK 20-20-20
+31.43,78.4,40.39,Loamy,Rice,16.66,5.45,44.69,DAP
+28.12,52.58,23.42,Black,Soybean,16.08,10.86,42.18,DAP
+24.1,42.81,53.28,Clayey,Wheat,24.39,4.95,6.35,Ammonium Sulphate
+28.84,52.81,60.78,Clayey,Wheat,6.69,6.79,15.46,SSP (Single Super Phosphate)
+24.84,51.56,60.9,Loamy,Maize,30.78,8.37,19.27,Urea
+15.25,57.51,28.04,Loamy,Sugarcane,20.93,6.25,8.96,Ammonium Sulphate
+23.36,58.97,46.39,Red,Soybean,14.88,32.22,21.29,NPK 10-26-26
+19.24,58.08,77.56,Black,Sugarcane,19.89,7.88,8.53,Ammonium Sulphate
+29.38,65.96,41.85,Red,Groundnut,10.5,9.76,16.4,SSP (Single Super Phosphate)
+21.68,58.64,65.68,Black,Groundnut,10.02,10.53,12.88,SSP (Single Super Phosphate)
+22.92,74.27,39.99,Sandy,Maize,21.63,17.58,23.53,NPK 20-20-20
+30.9,73.22,41.16,Red,Maize,15.95,5.48,47.4,DAP
+20.87,52.38,61.74,Clayey,Tobacco,44.44,10.93,23.29,Urea
+21.1,71.71,73.51,Black,Groundnut,9.18,20.16,22.81,NPK 10-26-26
+28.2,70.12,62.05,Clayey,Groundnut,19.38,7.29,49.94,DAP
+25.92,43.24,61.12,Red,Rice,45.06,10.4,14.04,Urea
+15.24,50.23,69.12,Red,Tobacco,38.85,12.25,16.69,Urea
+26.67,73.25,61.24,Red,Barley,5.23,8.88,17.18,SSP (Single Super Phosphate)
+13.78,37.82,58.75,Clayey,Pulses,24.54,6.7,11.84,Ammonium Sulphate
+17.06,50.23,26.81,Loamy,Maize,43.82,14.37,15.8,Urea
+21.5,70.64,34.51,Loamy,Barley,23.23,10.44,46.73,DAP
+25.43,42.26,29.97,Sandy,Wheat,48.49,7.53,23.79,Urea
+18.11,66.03,26.8,Clayey,Groundnut,22.88,18.27,18.11,NPK 20-20-20
+22.73,54.67,60.01,Red,Soybean,42.78,9.55,23.02,Urea
+21.28,70.8,27.36,Red,Sugarcane,18.58,21.43,16.83,NPK 20-20-20
+23.41,79.23,51.39,Loamy,Cotton,7.97,34.64,6.39,Potassium Chloride
+29.08,51.46,55.3,Loamy,Soybean,8.81,8.76,18.43,SSP (Single Super Phosphate)
+25.57,76.09,63.83,Sandy,Cotton,20.52,12.2,41.24,DAP
+18.19,69.14,28.27,Loamy,Pulses,16.59,16.06,18.13,NPK 20-20-20
+25.16,64.19,77.73,Black,Pulses,10.51,30.72,29.47,NPK 10-26-26
+27.08,68.44,21.16,Clayey,Pulses,15.72,24.31,17.27,NPK 20-20-20
+21.73,47.13,42.4,Red,Barley,37.92,8.89,20.43,Urea
+32.04,79.92,21.8,Loamy,Wheat,16.97,7.87,46.06,DAP
+21.36,54.25,21.2,Sandy,Cotton,23.33,17.91,21.98,NPK 20-20-20
+24.69,59.31,58.54,Clayey,Sugarcane,22.52,22.16,22.53,NPK 20-20-20
+19.99,52.21,59.56,Sandy,Barley,24.87,21.51,21.19,NPK 20-20-20
+23.18,58.85,38.87,Clayey,Cotton,23.9,23.23,17.7,NPK 20-20-20
+26.68,44.29,32.27,Loamy,Tobacco,49.95,12.07,21.29,Urea
+27.62,74.04,79.18,Red,Wheat,3.79,45.86,5.58,Potassium Chloride
+25.3,69.2,70.06,Sandy,Barley,5.38,47.06,4.12,Potassium Chloride
+24.05,71.81,51.48,Loamy,Tobacco,5.26,10.36,13.48,SSP (Single Super Phosphate)
+29.88,65.54,32.51,Sandy,Tobacco,40.31,9.97,23.79,Urea
+23.35,50.03,38.48,Sandy,Cotton,7.54,8.65,12.14,SSP (Single Super Phosphate)
+22.24,49.7,45.58,Loamy,Tobacco,19.57,19.52,23.46,NPK 20-20-20
+19.68,62.45,78.53,Black,Barley,16.63,18.42,17.49,NPK 20-20-20
+22.98,64.51,68.53,Loamy,Wheat,8.44,21.64,27.29,NPK 10-26-26
+17.4,56.42,43.83,Red,Sugarcane,18.45,6.83,6.26,Ammonium Sulphate
+18.15,47.43,54.63,Black,Pulses,24.61,20.59,21.03,NPK 20-20-20
+13.22,45.5,64.16,Red,Wheat,21.47,7.78,7.99,Ammonium Sulphate
+20.2,54.93,22.5,Red,Pulses,23.11,6.59,5.7,Ammonium Sulphate
+26.28,76.02,23.7,Clayey,Maize,4.62,45.24,7.17,Potassium Chloride
+22.21,73.84,55.96,Red,Soybean,19.96,21.79,19.04,NPK 20-20-20
+33.44,70.66,26.56,Sandy,Tobacco,7.99,40.28,4.62,Potassium Chloride
+26.57,50.39,23.86,Sandy,Tobacco,6.52,7.44,16.68,SSP (Single Super Phosphate)
+27.54,75.8,41.68,Black,Cotton,3.49,38.69,6.08,Potassium Chloride
+24.88,40.81,33.32,Black,Groundnut,30.51,12.16,12.34,Urea
+29.81,81.85,71.19,Sandy,Wheat,11.71,26.16,27.02,NPK 10-26-26
+21.26,75.16,58.13,Red,Cotton,13.34,29.97,33.5,NPK 10-26-26
+34.16,70.95,51.91,Clayey,Tobacco,3.15,48.49,7.85,Potassium Chloride
+24.88,82.7,38.57,Red,Barley,4.2,41.39,5.58,Potassium Chloride
+19.77,37.77,24.19,Sandy,Groundnut,21.59,5.11,9.98,Ammonium Sulphate
+21.17,53.46,51.85,Black,Pulses,23.52,16.97,20.48,NPK 20-20-20
+27.68,63.72,53.87,Loamy,Barley,6.75,46.22,5.55,Potassium Chloride
+29.33,72.36,31.4,Clayey,Tobacco,7.15,5.94,16.27,SSP (Single Super Phosphate)
+26.15,70.56,52.78,Sandy,Barley,10.51,11.17,14.67,SSP (Single Super Phosphate)
+24.73,71.16,40.13,Black,Sugarcane,11.44,6.95,17.23,SSP (Single Super Phosphate)
+24.71,70.73,36.3,Sandy,Rice,23.85,14.09,48.43,DAP
+17.18,50.97,75.31,Loamy,Sugarcane,21.72,7.77,8.58,Ammonium Sulphate
+23.11,62.75,71.78,Clayey,Tobacco,7.28,6.28,19.69,SSP (Single Super Phosphate)
+24.75,54.38,56.94,Black,Soybean,38.77,10.93,20.87,Urea
+22.05,69.55,64.32,Red,Barley,21.78,7.95,44.12,DAP
+24.07,72.91,70.22,Clayey,Soybean,24.46,18.27,19.15,NPK 20-20-20
+29.79,88.11,30.02,Sandy,Soybean,7.01,36.93,7.94,Potassium Chloride
+29.6,58.06,33.43,Clayey,Sugarcane,38.23,10.15,23.11,Urea
+27.8,57.71,76.87,Red,Rice,12.92,33.8,26.04,NPK 10-26-26
+23.58,69.41,24.52,Clayey,Sugarcane,49.06,10.53,14.96,Urea
+22.17,63.06,31.92,Loamy,Rice,13.25,28.58,33.7,NPK 10-26-26
+21.57,62.77,70.13,Loamy,Barley,24.23,16.27,21.89,NPK 20-20-20
+33.52,54.61,79.41,Loamy,Maize,19.03,5.0,48.42,DAP
+27.09,73.73,24.66,Sandy,Cotton,24.1,15.72,21.34,NPK 20-20-20
+17.3,53.61,51.82,Black,Sugarcane,33.18,5.91,13.06,Urea
+25.64,43.21,54.04,Loamy,Groundnut,43.62,10.25,12.72,Urea
+26.85,80.9,28.37,Clayey,Rice,11.58,34.5,26.68,NPK 10-26-26
+23.29,42.82,40.62,Red,Wheat,41.2,10.58,21.26,Urea
+26.5,84.05,28.87,Clayey,Sugarcane,9.51,23.26,32.21,NPK 10-26-26
+26.91,74.35,21.02,Red,Soybean,8.35,28.06,22.25,NPK 10-26-26
+22.79,55.09,36.86,Clayey,Groundnut,8.46,11.08,12.68,SSP (Single Super Phosphate)
+32.07,73.18,52.91,Sandy,Cotton,21.62,5.05,42.26,DAP
+33.64,70.08,69.76,Sandy,Groundnut,20.99,5.94,36.72,DAP
+29.97,57.81,74.43,Black,Soybean,23.71,12.88,46.49,DAP
+12.91,33.91,78.54,Red,Soybean,19.78,7.47,11.03,Ammonium Sulphate
+15.54,49.09,35.79,Loamy,Pulses,46.52,12.09,21.73,Urea
+20.21,74.42,24.0,Clayey,Maize,10.86,7.46,13.76,SSP (Single Super Phosphate)
+25.59,66.74,21.6,Black,Soybean,9.15,7.12,15.93,SSP (Single Super Phosphate)
+29.27,67.57,34.71,Sandy,Groundnut,7.83,10.7,18.28,SSP (Single Super Phosphate)
+18.99,32.67,23.49,Loamy,Wheat,21.62,4.05,6.84,Ammonium Sulphate
+31.95,63.63,52.29,Sandy,Soybean,11.15,31.0,30.39,NPK 10-26-26
+16.25,63.31,53.5,Black,Tobacco,49.72,8.76,21.3,Urea
+23.23,81.96,64.36,Red,Pulses,7.88,44.24,6.52,Potassium Chloride
+18.15,30.61,51.31,Sandy,Tobacco,20.57,4.52,11.35,Ammonium Sulphate
+22.2,52.62,67.08,Loamy,Maize,31.77,10.9,21.88,Urea
+24.78,51.06,71.86,Black,Groundnut,34.6,5.31,13.2,Urea
+19.45,67.1,56.08,Clayey,Sugarcane,22.98,18.1,20.38,NPK 20-20-20
+33.75,73.29,27.83,Sandy,Tobacco,23.87,9.97,41.3,DAP
+21.73,51.2,34.79,Loamy,Tobacco,10.16,8.13,19.4,SSP (Single Super Phosphate)
+26.06,65.08,63.95,Sandy,Soybean,17.92,15.88,23.11,NPK 20-20-20
+30.88,84.75,32.5,Black,Soybean,9.11,33.19,34.24,NPK 10-26-26
+33.53,72.79,39.94,Clayey,Barley,3.65,42.7,7.81,Potassium Chloride
+15.72,68.47,73.2,Red,Tobacco,36.93,11.5,16.97,Urea
+15.79,53.61,57.19,Clayey,Wheat,24.87,7.76,11.29,Ammonium Sulphate
+25.56,69.6,76.09,Black,Soybean,9.52,32.48,23.76,NPK 10-26-26
+22.65,69.62,56.87,Black,Barley,20.68,15.67,19.4,NPK 20-20-20
+21.23,77.73,39.55,Black,Soybean,20.81,12.56,38.8,DAP
+15.99,41.38,57.25,Loamy,Maize,39.19,12.69,22.63,Urea
+28.85,59.04,75.95,Black,Pulses,8.67,8.28,12.26,SSP (Single Super Phosphate)
+33.13,63.52,61.37,Black,Pulses,7.98,41.98,4.88,Potassium Chloride
+10.91,43.3,31.17,Black,Rice,18.47,7.78,11.83,Ammonium Sulphate
+33.28,69.98,25.08,Loamy,Pulses,6.77,48.72,5.92,Potassium Chloride
+11.6,57.18,22.48,Red,Pulses,19.8,5.05,5.24,Ammonium Sulphate
+28.09,72.75,37.33,Black,Sugarcane,4.5,34.53,3.75,Potassium Chloride
+27.98,74.88,31.47,Loamy,Pulses,17.75,18.22,24.68,NPK 20-20-20
+27.96,46.91,49.95,Red,Maize,37.0,11.69,19.68,Urea
+20.52,74.43,56.82,Clayey,Groundnut,21.23,23.6,19.13,NPK 20-20-20
+23.24,51.14,40.09,Red,Tobacco,17.24,24.91,18.4,NPK 20-20-20
+30.41,67.96,78.0,Loamy,Pulses,13.0,28.53,23.11,NPK 10-26-26
+23.82,77.62,32.06,Red,Maize,7.85,49.39,5.16,Potassium Chloride
+25.46,50.27,23.87,Red,Barley,24.56,24.7,22.67,NPK 20-20-20
+33.44,66.42,78.32,Loamy,Wheat,7.86,43.1,7.9,Potassium Chloride
+24.51,84.66,53.71,Sandy,Barley,3.3,49.48,3.09,Potassium Chloride
+29.34,83.79,36.38,Sandy,Wheat,7.51,38.15,6.95,Potassium Chloride
+11.06,47.95,35.86,Clayey,Soybean,23.28,5.34,5.77,Ammonium Sulphate
+30.62,75.8,25.76,Loamy,Soybean,5.8,43.84,7.09,Potassium Chloride
+17.63,40.51,65.8,Clayey,Soybean,31.88,14.8,14.67,Urea
+21.96,68.18,70.97,Black,Pulses,22.47,5.6,38.28,DAP
+15.15,49.79,51.06,Sandy,Pulses,42.36,10.6,20.54,Urea
+32.66,58.55,47.77,Clayey,Wheat,23.54,13.33,35.74,DAP
+16.69,36.74,63.61,Clayey,Soybean,21.19,6.3,10.37,Ammonium Sulphate
+15.91,50.31,48.56,Sandy,Barley,24.81,6.58,6.87,Ammonium Sulphate
+29.85,72.23,66.28,Sandy,Cotton,10.79,6.04,15.61,SSP (Single Super Phosphate)
+14.95,39.67,53.47,Red,Tobacco,19.17,6.9,9.89,Ammonium Sulphate
+16.26,40.51,71.53,Loamy,Pulses,19.16,4.25,10.5,Ammonium Sulphate
+28.58,83.71,45.63,Sandy,Tobacco,11.38,34.51,23.24,NPK 10-26-26
+31.29,73.7,64.5,Clayey,Barley,13.94,31.91,25.45,NPK 10-26-26
+20.93,60.1,27.62,Loamy,Pulses,14.62,24.45,32.63,NPK 10-26-26
+28.3,75.23,78.8,Black,Tobacco,13.83,22.45,34.87,NPK 10-26-26
+31.0,70.28,28.31,Sandy,Cotton,18.91,11.38,36.04,DAP
+23.04,85.66,25.51,Black,Barley,3.28,46.38,4.42,Potassium Chloride
+28.62,55.32,43.43,Clayey,Sugarcane,9.52,7.92,13.68,SSP (Single Super Phosphate)
+26.04,57.04,33.09,Loamy,Pulses,11.09,23.97,22.99,NPK 10-26-26
+23.37,56.2,22.05,Loamy,Pulses,44.11,13.64,16.7,Urea
+19.26,59.44,40.27,Red,Barley,19.69,7.86,6.18,Ammonium Sulphate
+29.04,65.35,23.66,Black,Groundnut,21.52,12.91,46.71,DAP
+19.06,56.4,39.48,Black,Tobacco,21.3,4.26,7.68,Ammonium Sulphate
+24.66,67.54,63.12,Clayey,Soybean,7.99,9.08,16.12,SSP (Single Super Phosphate)
+20.72,56.52,70.16,Black,Wheat,17.74,19.28,23.46,NPK 20-20-20
+30.24,69.95,56.19,Sandy,Cotton,10.84,34.66,22.54,NPK 10-26-26
+22.98,68.65,79.41,Red,Wheat,6.73,11.2,14.47,SSP (Single Super Phosphate)
+23.38,61.38,40.85,Sandy,Rice,8.38,8.45,13.48,SSP (Single Super Phosphate)
+19.05,54.09,67.5,Sandy,Groundnut,19.93,7.59,10.61,Ammonium Sulphate
+26.67,64.36,38.92,Red,Soybean,9.57,6.34,14.51,SSP (Single Super Phosphate)
+24.33,30.86,31.98,Loamy,Tobacco,19.34,4.27,8.87,Ammonium Sulphate
+25.78,70.24,54.79,Loamy,Wheat,21.83,20.02,21.84,NPK 20-20-20
+24.75,45.99,60.81,Clayey,Barley,34.57,14.75,24.95,Urea
+33.11,57.49,35.79,Clayey,Tobacco,21.73,7.18,38.31,DAP
+34.9,63.08,23.18,Sandy,Pulses,6.86,36.67,7.49,Potassium Chloride
+31.28,81.09,56.84,Red,Pulses,5.75,31.45,5.07,Potassium Chloride
+21.08,54.92,63.21,Clayey,Tobacco,46.3,5.67,17.47,Urea
+26.83,72.66,26.27,Clayey,Soybean,20.27,23.38,23.86,NPK 20-20-20
+33.6,50.48,66.93,Black,Groundnut,19.83,8.87,42.6,DAP
+27.79,81.04,69.69,Clayey,Tobacco,11.7,21.6,27.01,NPK 10-26-26
+19.86,51.97,41.32,Clayey,Cotton,24.57,6.63,5.01,Ammonium Sulphate
+20.27,62.27,45.41,Loamy,Groundnut,20.81,16.71,18.88,NPK 20-20-20
+26.05,56.07,71.28,Clayey,Wheat,19.73,15.4,23.77,NPK 20-20-20
+32.81,63.17,70.82,Black,Barley,24.56,6.09,38.01,DAP
+11.63,33.24,45.67,Red,Barley,20.62,7.14,11.48,Ammonium Sulphate
+28.89,53.15,74.08,Clayey,Pulses,32.18,12.65,19.76,Urea
+22.53,39.51,63.51,Sandy,Soybean,23.01,4.41,10.05,Ammonium Sulphate
+17.06,39.52,57.36,Loamy,Groundnut,19.41,6.83,6.99,Ammonium Sulphate
+29.38,89.13,73.0,Sandy,Wheat,6.24,41.79,3.68,Potassium Chloride
+34.7,64.34,51.94,Clayey,Barley,15.31,12.74,49.56,DAP
+20.34,62.07,37.89,Red,Barley,5.77,5.12,15.4,SSP (Single Super Phosphate)
+15.94,67.19,28.35,Red,Rice,31.31,5.34,17.31,Urea
+24.68,57.49,59.25,Loamy,Rice,19.21,14.37,44.03,DAP
+34.34,79.06,29.35,Clayey,Groundnut,4.78,35.09,4.28,Potassium Chloride
+24.2,52.55,75.96,Loamy,Sugarcane,46.45,12.26,24.25,Urea
+20.75,66.99,25.64,Red,Cotton,18.93,23.32,18.42,NPK 20-20-20
+20.24,74.55,22.41,Sandy,Wheat,23.23,12.8,43.34,DAP
+24.89,33.82,24.34,Loamy,Barley,22.04,3.42,7.4,Ammonium Sulphate
+18.1,63.79,62.23,Red,Barley,25.0,18.62,23.43,NPK 20-20-20
+32.93,59.42,52.28,Clayey,Wheat,20.74,12.77,45.01,DAP
+21.58,56.25,56.85,Sandy,Pulses,19.43,3.07,6.27,Ammonium Sulphate
+24.1,84.69,55.2,Black,Barley,7.87,36.19,4.29,Potassium Chloride
+22.83,76.14,63.13,Loamy,Pulses,6.69,30.58,5.45,Potassium Chloride
+22.62,78.38,33.53,Clayey,Sugarcane,4.11,42.3,3.27,Potassium Chloride
+28.79,75.54,32.72,Black,Barley,9.74,25.84,34.82,NPK 10-26-26
+32.8,70.66,36.89,Black,Sugarcane,3.25,33.05,6.04,Potassium Chloride
+21.9,56.87,69.36,Clayey,Sugarcane,13.09,23.31,33.11,NPK 10-26-26
+33.74,60.79,38.42,Clayey,Wheat,17.01,12.91,39.73,DAP
+26.93,56.27,35.17,Red,Pulses,9.96,10.19,12.68,SSP (Single Super Phosphate)
+26.3,60.99,65.03,Red,Pulses,14.62,26.53,29.48,NPK 10-26-26
+28.19,62.07,76.61,Black,Cotton,8.04,21.26,26.68,NPK 10-26-26
+27.77,62.61,37.2,Black,Maize,3.5,35.52,6.77,Potassium Chloride
+23.28,69.82,28.17,Loamy,Maize,6.76,33.47,4.85,Potassium Chloride
+30.84,79.29,71.67,Red,Pulses,4.28,42.11,3.5,Potassium Chloride
+18.85,50.86,40.63,Clayey,Pulses,20.58,3.87,10.05,Ammonium Sulphate
+25.26,56.16,49.97,Sandy,Cotton,10.11,29.43,33.5,NPK 10-26-26
+29.15,79.35,40.51,Black,Wheat,10.46,28.53,33.64,NPK 10-26-26
+25.14,70.9,64.31,Red,Rice,11.02,8.3,18.95,SSP (Single Super Phosphate)
+13.22,32.22,73.49,Black,Pulses,24.26,7.73,8.33,Ammonium Sulphate
+27.01,72.9,43.01,Loamy,Wheat,16.49,19.61,20.1,NPK 20-20-20
+29.11,47.78,45.78,Black,Sugarcane,35.46,7.99,17.77,Urea
+25.8,66.48,70.35,Red,Cotton,8.36,27.68,25.97,NPK 10-26-26
+26.88,46.22,74.82,Black,Pulses,16.29,17.75,19.3,NPK 20-20-20
+26.47,47.95,21.26,Red,Wheat,33.48,11.6,11.48,Urea
+17.58,45.76,78.44,Black,Soybean,20.59,5.62,5.14,Ammonium Sulphate
+25.28,55.73,32.06,Black,Tobacco,8.98,9.58,16.14,SSP (Single Super Phosphate)
+30.79,73.71,27.88,Loamy,Tobacco,10.84,29.73,33.2,NPK 10-26-26
+19.58,50.22,65.65,Clayey,Wheat,16.27,18.05,15.59,NPK 20-20-20
+31.62,86.12,58.04,Loamy,Pulses,5.31,46.78,8.0,Potassium Chloride
+26.23,59.06,65.67,Clayey,Tobacco,19.97,5.45,38.45,DAP
+24.93,65.83,30.99,Red,Maize,8.9,7.01,13.07,SSP (Single Super Phosphate)
+13.53,51.81,42.68,Sandy,Barley,21.84,7.99,11.64,Ammonium Sulphate
+22.17,78.97,40.05,Red,Wheat,10.8,34.67,26.15,NPK 10-26-26
+27.23,74.63,79.89,Black,Wheat,11.06,31.84,26.96,NPK 10-26-26
+23.19,69.91,44.67,Loamy,Soybean,22.57,5.07,35.83,DAP
+30.08,60.75,43.97,Red,Cotton,3.09,33.49,7.31,Potassium Chloride
+19.12,46.22,72.69,Loamy,Groundnut,34.82,7.51,13.08,Urea
+21.74,65.44,23.81,Red,Pulses,22.78,24.71,21.09,NPK 20-20-20
+24.54,63.57,27.1,Red,Soybean,48.66,9.21,19.64,Urea
+23.64,61.95,27.66,Sandy,Soybean,40.96,10.69,16.35,Urea
+20.12,51.41,43.93,Clayey,Cotton,40.38,5.26,17.19,Urea
+25.47,51.28,52.23,Loamy,Soybean,15.91,21.31,23.55,NPK 20-20-20
+31.62,71.22,47.49,Clayey,Soybean,8.26,33.81,28.54,NPK 10-26-26
+23.31,72.02,65.76,Clayey,Barley,17.56,14.72,35.46,DAP
+20.92,67.15,45.74,Black,Groundnut,7.34,5.19,15.77,SSP (Single Super Phosphate)
+28.91,55.76,41.29,Loamy,Cotton,11.87,23.15,28.55,NPK 10-26-26
+23.8,50.3,63.41,Sandy,Pulses,20.61,11.89,44.43,DAP
+22.86,56.93,76.8,Clayey,Groundnut,21.3,3.62,10.73,Ammonium Sulphate
+21.8,60.06,56.3,Black,Pulses,17.28,20.93,24.22,NPK 20-20-20
+16.59,38.94,47.35,Sandy,Rice,24.68,6.66,6.73,Ammonium Sulphate
+22.51,48.02,62.45,Black,Wheat,17.68,22.05,15.41,NPK 20-20-20
+20.58,45.4,55.15,Loamy,Wheat,19.6,4.48,10.76,Ammonium Sulphate
+28.12,60.36,44.85,Loamy,Maize,20.32,7.97,46.84,DAP
+27.24,88.4,34.79,Clayey,Cotton,6.91,41.67,7.19,Potassium Chloride
+23.67,77.78,57.18,Loamy,Tobacco,12.83,30.41,24.26,NPK 10-26-26
+27.93,77.39,38.69,Sandy,Sugarcane,9.94,33.96,20.69,NPK 10-26-26
+23.13,59.87,39.96,Sandy,Wheat,19.69,20.85,20.04,NPK 20-20-20
+22.08,54.07,22.54,Loamy,Tobacco,9.22,8.45,20.0,SSP (Single Super Phosphate)
+23.56,81.0,20.36,Red,Soybean,7.43,32.77,4.37,Potassium Chloride
+26.07,78.33,71.5,Clayey,Barley,8.48,24.0,24.75,NPK 10-26-26
+24.31,59.2,41.18,Sandy,Barley,21.74,10.49,35.78,DAP
+27.65,72.39,67.38,Loamy,Tobacco,8.64,8.82,13.63,SSP (Single Super Phosphate)
+34.96,66.77,39.27,Black,Maize,18.75,9.33,47.06,DAP
+20.91,59.54,26.4,Red,Rice,43.53,11.59,13.24,Urea
+29.68,53.6,72.38,Sandy,Pulses,7.36,9.72,15.99,SSP (Single Super Phosphate)
+31.84,72.94,24.92,Red,Maize,10.03,32.05,31.75,NPK 10-26-26
+22.47,55.29,28.29,Red,Maize,21.67,23.72,15.13,NPK 20-20-20
+31.79,62.5,24.4,Sandy,Groundnut,11.54,22.08,27.62,NPK 10-26-26
+19.49,36.97,73.85,Loamy,Barley,20.22,6.35,7.53,Ammonium Sulphate
+27.94,69.85,29.49,Loamy,Tobacco,7.39,45.95,3.9,Potassium Chloride
+26.15,59.84,28.03,Clayey,Pulses,19.8,15.63,23.16,NPK 20-20-20
+21.42,51.53,60.78,Red,Tobacco,30.84,14.88,10.27,Urea
+29.49,51.52,73.9,Loamy,Pulses,10.81,6.47,17.84,SSP (Single Super Phosphate)
+15.35,55.74,43.99,Red,Maize,42.35,5.07,19.17,Urea
+31.09,87.13,68.31,Clayey,Rice,3.65,38.15,5.48,Potassium Chloride
+24.09,54.24,65.4,Sandy,Maize,6.1,11.11,17.12,SSP (Single Super Phosphate)
+23.29,51.87,75.67,Black,Rice,22.51,6.8,10.34,Ammonium Sulphate
+26.08,77.18,39.29,Clayey,Soybean,17.81,14.29,47.05,DAP
+30.3,68.91,67.06,Loamy,Rice,8.45,32.38,28.89,NPK 10-26-26
+20.18,53.21,49.77,Red,Maize,6.63,11.07,19.44,SSP (Single Super Phosphate)
+22.28,63.75,41.07,Sandy,Groundnut,22.93,12.5,44.41,DAP
+19.08,62.78,46.98,Clayey,Barley,34.94,7.5,23.59,Urea
+34.89,61.59,54.43,Loamy,Cotton,19.44,11.22,39.13,DAP
+33.29,79.18,46.85,Black,Wheat,5.59,46.33,3.37,Potassium Chloride
+24.5,68.12,71.24,Black,Pulses,6.28,38.01,7.59,Potassium Chloride
+31.28,74.09,51.08,Sandy,Maize,22.67,12.82,43.76,DAP
+24.19,46.78,70.82,Loamy,Sugarcane,40.85,10.49,21.88,Urea
+24.08,50.7,52.01,Sandy,Wheat,35.05,8.79,15.39,Urea
+23.83,34.22,33.49,Loamy,Groundnut,20.04,3.5,8.94,Ammonium Sulphate
+23.25,51.66,29.82,Red,Cotton,41.97,8.76,11.43,Urea
+29.08,59.24,70.25,Red,Rice,22.27,14.94,46.77,DAP
+23.97,69.86,68.9,Red,Soybean,21.95,10.95,38.28,DAP
+20.29,72.54,76.49,Clayey,Maize,11.47,31.02,24.28,NPK 10-26-26
+24.89,84.6,23.36,Loamy,Rice,10.61,27.33,23.82,NPK 10-26-26
+17.87,46.32,43.51,Loamy,Tobacco,24.59,7.99,8.65,Ammonium Sulphate
+22.78,50.42,49.14,Loamy,Sugarcane,18.36,17.85,18.29,NPK 20-20-20
+22.97,65.44,73.73,Red,Pulses,9.71,34.37,34.5,NPK 10-26-26
+27.32,83.27,67.29,Black,Rice,14.56,28.55,30.2,NPK 10-26-26
+25.57,77.62,55.07,Sandy,Soybean,22.38,5.68,42.82,DAP
+29.67,63.82,49.84,Clayey,Cotton,45.74,8.56,11.68,Urea
+20.04,58.27,69.39,Black,Sugarcane,18.59,6.4,9.77,Ammonium Sulphate
+29.93,63.32,57.66,Black,Maize,4.34,45.92,5.2,Potassium Chloride
+31.79,75.54,73.44,Black,Maize,5.98,45.1,7.18,Potassium Chloride
+29.88,42.98,44.09,Loamy,Rice,30.19,12.26,13.7,Urea
+29.1,70.19,24.87,Loamy,Rice,15.63,12.33,41.88,DAP
+22.27,76.61,50.67,Sandy,Maize,9.18,28.23,32.55,NPK 10-26-26
+18.44,58.93,33.03,Black,Tobacco,23.14,7.11,9.02,Ammonium Sulphate
+27.62,77.84,40.92,Red,Cotton,6.99,45.63,6.22,Potassium Chloride
+29.54,77.4,56.75,Red,Maize,18.62,5.1,43.9,DAP
+18.67,37.78,74.53,Sandy,Groundnut,18.9,6.17,8.66,Ammonium Sulphate
+25.47,58.86,72.77,Sandy,Maize,20.94,11.36,35.49,DAP
+26.13,67.28,59.7,Black,Pulses,21.08,17.08,19.03,NPK 20-20-20
+27.34,62.89,64.44,Clayey,Rice,19.11,8.85,45.83,DAP
+23.9,76.58,73.74,Red,Pulses,21.97,11.42,37.9,DAP
+23.89,58.63,64.71,Loamy,Sugarcane,17.06,18.36,17.5,NPK 20-20-20
+29.15,53.51,52.26,Black,Tobacco,5.44,5.87,13.44,SSP (Single Super Phosphate)
+19.99,37.07,73.67,Black,Soybean,24.48,7.61,10.55,Ammonium Sulphate
+26.12,50.46,54.98,Sandy,Pulses,20.88,11.8,45.52,DAP
+23.66,60.15,60.67,Sandy,Barley,5.61,39.83,7.31,Potassium Chloride
+22.56,67.32,26.86,Red,Cotton,7.07,30.11,3.82,Potassium Chloride
+22.11,56.64,25.69,Loamy,Groundnut,8.09,7.05,14.71,SSP (Single Super Phosphate)
+22.64,71.64,47.31,Sandy,Tobacco,18.03,17.73,19.68,NPK 20-20-20
+28.76,52.71,67.5,Loamy,Rice,9.54,8.49,15.12,SSP (Single Super Phosphate)
+26.51,66.56,44.22,Black,Tobacco,11.28,7.54,19.73,SSP (Single Super Phosphate)
+32.95,73.98,25.61,Black,Wheat,3.36,30.68,6.53,Potassium Chloride
+27.24,66.74,67.92,Loamy,Barley,7.08,11.19,14.45,SSP (Single Super Phosphate)
+20.95,47.11,34.08,Loamy,Maize,30.18,10.99,18.83,Urea
+23.73,56.03,42.21,Red,Rice,18.46,4.44,7.15,Ammonium Sulphate
+31.8,62.25,60.88,Black,Soybean,10.88,28.65,26.67,NPK 10-26-26
+29.27,43.73,73.77,Sandy,Barley,46.43,11.7,10.62,Urea
+34.44,71.8,38.29,Sandy,Maize,22.54,5.18,47.07,DAP
+20.71,63.94,37.42,Clayey,Barley,10.66,5.98,19.52,SSP (Single Super Phosphate)
+23.9,75.62,77.7,Clayey,Groundnut,12.39,32.66,29.71,NPK 10-26-26
+34.26,68.02,64.62,Sandy,Groundnut,18.85,11.52,42.32,DAP
+24.58,71.62,75.56,Sandy,Soybean,10.68,9.5,18.51,SSP (Single Super Phosphate)
+20.62,64.94,61.36,Red,Barley,17.34,13.2,44.57,DAP
+20.46,56.13,40.42,Black,Cotton,18.98,6.71,47.41,DAP
+30.07,87.5,37.95,Sandy,Sugarcane,5.58,31.88,6.5,Potassium Chloride
+23.59,77.44,32.5,Red,Soybean,11.66,26.21,20.35,NPK 10-26-26
+16.46,65.86,47.61,Red,Groundnut,32.82,7.16,19.96,Urea
+28.74,83.04,29.86,Loamy,Maize,4.34,32.69,6.26,Potassium Chloride
+21.03,55.36,79.46,Sandy,Soybean,17.92,22.35,22.05,NPK 20-20-20
+27.31,45.16,64.89,Clayey,Rice,19.26,20.54,24.86,NPK 20-20-20
+30.77,57.42,58.44,Sandy,Cotton,22.57,9.77,37.43,DAP
+28.43,63.96,77.35,Black,Groundnut,5.41,36.05,5.66,Potassium Chloride
+21.21,52.57,52.05,Clayey,Cotton,15.22,24.21,18.04,NPK 20-20-20
+26.69,76.21,59.75,Loamy,Rice,10.05,24.99,23.99,NPK 10-26-26
+23.1,81.01,60.16,Sandy,Rice,12.4,26.23,32.45,NPK 10-26-26
+30.32,53.61,76.31,Loamy,Maize,15.26,11.6,44.05,DAP
+23.01,79.84,25.39,Black,Wheat,20.29,14.91,46.9,DAP
+31.96,67.81,26.67,Clayey,Groundnut,13.3,32.95,30.34,NPK 10-26-26
+19.83,30.25,66.8,Clayey,Soybean,23.89,3.31,9.08,Ammonium Sulphate
+21.15,48.87,48.11,Clayey,Sugarcane,16.5,23.79,15.39,NPK 20-20-20
+24.79,67.57,50.87,Black,Soybean,9.43,21.39,23.91,NPK 10-26-26
+28.44,49.54,26.6,Sandy,Pulses,47.85,13.07,18.09,Urea
+22.42,62.96,30.19,Red,Groundnut,13.94,24.35,30.28,NPK 10-26-26
+19.16,61.09,46.23,Black,Barley,20.57,21.51,17.56,NPK 20-20-20
+30.54,85.11,42.4,Loamy,Groundnut,3.69,31.09,3.87,Potassium Chloride
+23.91,69.06,28.88,Black,Soybean,9.58,20.61,29.25,NPK 10-26-26
+27.46,73.83,67.46,Red,Rice,5.88,30.85,7.13,Potassium Chloride
+21.51,55.02,28.84,Black,Sugarcane,17.29,7.69,42.04,DAP
+14.26,35.28,64.6,Red,Groundnut,20.83,4.78,6.5,Ammonium Sulphate
+25.77,68.67,21.09,Black,Soybean,42.16,13.13,21.47,Urea
+21.94,44.25,67.6,Black,Rice,22.75,5.93,6.77,Ammonium Sulphate
+25.82,68.52,47.2,Clayey,Pulses,21.88,19.39,17.2,NPK 20-20-20
+29.03,50.21,33.0,Red,Barley,6.03,10.21,18.12,SSP (Single Super Phosphate)
+25.37,63.67,76.54,Sandy,Pulses,3.34,47.74,7.84,Potassium Chloride
+22.15,72.23,79.6,Loamy,Barley,7.18,9.1,19.25,SSP (Single Super Phosphate)
+31.68,82.19,34.86,Clayey,Maize,6.63,49.81,8.0,Potassium Chloride
+17.23,46.89,55.62,Loamy,Pulses,20.25,7.39,6.57,Ammonium Sulphate
+22.06,51.79,63.58,Black,Sugarcane,9.46,9.9,18.3,SSP (Single Super Phosphate)
+30.06,76.47,61.22,Loamy,Soybean,14.77,23.91,26.61,NPK 10-26-26
+25.93,73.28,72.56,Black,Maize,11.02,10.93,13.08,SSP (Single Super Phosphate)
+15.72,56.98,29.52,Sandy,Sugarcane,43.14,12.3,16.54,Urea
+15.27,43.79,59.58,Red,Pulses,40.9,12.54,21.38,Urea
+19.89,68.14,70.49,Black,Groundnut,24.69,15.71,21.93,NPK 20-20-20
+23.05,51.36,47.42,Red,Groundnut,39.88,6.03,21.32,Urea
+18.11,57.5,29.3,Clayey,Cotton,23.58,15.04,19.74,NPK 20-20-20
+14.67,39.62,59.53,Clayey,Soybean,23.78,3.85,5.46,Ammonium Sulphate
+25.65,72.8,78.1,Sandy,Tobacco,9.76,6.22,18.04,SSP (Single Super Phosphate)
+20.99,41.64,40.11,Red,Pulses,47.4,10.91,17.78,Urea
+15.05,46.64,54.52,Red,Cotton,23.45,3.81,6.82,Ammonium Sulphate
+28.94,63.02,29.86,Sandy,Tobacco,17.88,8.0,42.39,DAP
+27.47,64.07,25.0,Black,Soybean,9.78,8.5,14.01,SSP (Single Super Phosphate)
+24.15,88.06,72.11,Red,Maize,7.25,41.36,7.76,Potassium Chloride
+15.19,35.18,20.16,Sandy,Tobacco,19.51,7.0,10.01,Ammonium Sulphate
+14.9,44.96,77.51,Sandy,Maize,19.46,7.55,8.23,Ammonium Sulphate
+20.92,52.81,63.6,Loamy,Pulses,11.67,7.67,14.25,SSP (Single Super Phosphate)
+24.8,46.01,26.79,Loamy,Groundnut,23.53,6.13,10.17,Ammonium Sulphate
+21.98,61.99,73.26,Sandy,Tobacco,9.45,5.72,16.0,SSP (Single Super Phosphate)
+24.95,60.87,50.79,Clayey,Wheat,12.9,31.17,24.96,NPK 10-26-26
+27.47,49.23,68.98,Red,Sugarcane,30.44,9.76,17.47,Urea
+21.06,47.99,30.65,Clayey,Rice,24.0,4.81,5.0,Ammonium Sulphate
+32.38,88.36,56.51,Red,Cotton,3.01,44.57,5.08,Potassium Chloride
+21.75,40.57,37.94,Red,Pulses,20.16,6.99,7.05,Ammonium Sulphate
+31.45,58.66,21.1,Red,Groundnut,11.74,24.89,32.88,NPK 10-26-26
+29.23,72.81,50.78,Clayey,Rice,15.06,12.02,46.59,DAP
+32.09,81.55,35.89,Loamy,Maize,7.31,47.88,7.67,Potassium Chloride
+23.06,50.5,60.75,Loamy,Wheat,22.62,7.76,46.72,DAP
+19.59,59.62,41.85,Loamy,Pulses,19.93,24.78,16.61,NPK 20-20-20
+20.76,73.33,79.02,Sandy,Rice,9.71,27.25,24.59,NPK 10-26-26
+26.92,50.73,57.06,Sandy,Wheat,5.64,5.7,13.92,SSP (Single Super Phosphate)
+32.34,71.64,43.01,Loamy,Cotton,5.15,39.1,3.29,Potassium Chloride
+10.53,31.12,21.58,Sandy,Pulses,21.7,4.49,9.13,Ammonium Sulphate
+26.76,60.37,27.45,Red,Soybean,9.83,5.3,17.86,SSP (Single Super Phosphate)
+21.0,66.02,28.53,Sandy,Pulses,22.24,14.02,36.81,DAP
+20.14,51.06,63.25,Black,Sugarcane,21.01,3.57,7.86,Ammonium Sulphate
+29.73,58.02,20.91,Black,Barley,15.92,11.24,43.99,DAP
+29.97,89.57,72.94,Red,Wheat,3.56,33.89,7.56,Potassium Chloride
+32.65,89.88,39.77,Sandy,Soybean,5.04,32.63,4.37,Potassium Chloride
+25.32,78.25,60.11,Sandy,Tobacco,22.51,5.8,36.07,DAP
+20.47,51.59,53.87,Loamy,Tobacco,30.01,11.03,10.27,Urea
+26.5,70.17,53.94,Black,Wheat,7.01,32.53,6.35,Potassium Chloride
+31.88,73.34,42.26,Black,Maize,11.81,27.73,30.42,NPK 10-26-26
+33.19,84.65,27.34,Clayey,Pulses,6.4,41.3,6.03,Potassium Chloride
+28.03,83.24,40.24,Red,Cotton,7.06,32.91,6.87,Potassium Chloride
+21.43,73.67,76.07,Clayey,Groundnut,12.09,20.47,23.99,NPK 10-26-26
+15.08,60.87,22.93,Loamy,Barley,44.7,7.53,14.22,Urea
+30.98,69.81,47.21,Red,Barley,10.25,21.91,20.52,NPK 10-26-26
+22.92,80.27,32.56,Red,Groundnut,14.56,22.34,30.38,NPK 10-26-26
+22.03,64.47,61.88,Loamy,Barley,20.66,15.4,21.16,NPK 20-20-20
+27.99,69.8,75.39,Loamy,Soybean,9.42,34.93,31.18,NPK 10-26-26
+30.66,69.52,63.71,Clayey,Pulses,10.54,32.73,29.02,NPK 10-26-26
+20.15,59.29,64.54,Clayey,Maize,11.8,29.38,25.61,NPK 10-26-26
+28.35,60.76,74.68,Clayey,Groundnut,19.66,12.02,37.85,DAP
+23.66,60.78,27.74,Red,Cotton,10.04,32.87,27.04,NPK 10-26-26
+29.28,60.18,79.93,Loamy,Maize,8.92,8.63,19.85,SSP (Single Super Phosphate)
+11.45,30.4,45.37,Clayey,Rice,24.24,3.74,7.33,Ammonium Sulphate
+24.47,45.28,57.65,Red,Cotton,19.29,4.71,5.8,Ammonium Sulphate
+27.46,52.34,27.89,Clayey,Tobacco,22.15,24.12,24.38,NPK 20-20-20
+20.47,72.18,26.38,Black,Groundnut,23.06,7.54,47.66,DAP
+23.33,85.57,56.08,Loamy,Rice,4.74,42.16,6.81,Potassium Chloride
+27.73,52.19,42.89,Clayey,Sugarcane,9.95,6.63,19.8,SSP (Single Super Phosphate)
+24.8,79.36,20.83,Sandy,Pulses,11.63,24.25,23.21,NPK 10-26-26
+11.15,54.32,78.59,Sandy,Cotton,22.74,4.12,10.31,Ammonium Sulphate
+33.51,61.35,30.09,Black,Cotton,3.87,47.3,4.43,Potassium Chloride
+33.42,80.46,52.46,Black,Wheat,5.26,46.48,3.08,Potassium Chloride
+34.06,84.63,33.49,Sandy,Wheat,5.63,32.31,6.96,Potassium Chloride
+23.6,73.83,57.64,Black,Cotton,21.87,21.09,24.13,NPK 20-20-20
+28.76,61.09,37.09,Clayey,Sugarcane,9.26,8.3,17.5,SSP (Single Super Phosphate)
+23.31,76.93,24.6,Clayey,Barley,9.95,27.46,22.77,NPK 10-26-26
+22.82,60.61,78.51,Loamy,Rice,24.33,22.1,23.6,NPK 20-20-20
+22.52,62.83,78.18,Sandy,Cotton,9.54,34.26,22.79,NPK 10-26-26
+15.97,42.84,72.81,Sandy,Barley,22.51,4.25,8.85,Ammonium Sulphate
+21.96,63.98,26.01,Red,Maize,8.95,34.47,34.66,NPK 10-26-26
+22.92,64.18,23.82,Black,Barley,8.38,23.47,30.04,NPK 10-26-26
+34.44,64.62,48.71,Red,Wheat,7.86,40.86,6.93,Potassium Chloride
+20.78,45.7,22.71,Sandy,Pulses,18.75,7.18,9.62,Ammonium Sulphate
+12.74,52.52,40.35,Sandy,Groundnut,22.56,6.23,6.08,Ammonium Sulphate
+24.76,47.77,63.77,Sandy,Pulses,24.26,16.89,24.62,NPK 20-20-20
+29.71,58.19,30.63,Clayey,Maize,15.05,14.05,35.9,DAP
+15.31,48.1,38.72,Sandy,Maize,23.81,6.17,11.65,Ammonium Sulphate
+20.35,62.72,36.59,Sandy,Groundnut,33.91,5.94,12.8,Urea
+22.0,52.83,70.56,Loamy,Soybean,9.2,5.06,14.66,SSP (Single Super Phosphate)
+31.09,56.7,58.51,Red,Sugarcane,19.36,8.42,39.98,DAP
+11.32,56.81,43.36,Loamy,Cotton,22.67,6.22,9.27,Ammonium Sulphate
+21.92,59.12,59.56,Black,Barley,46.82,14.02,10.58,Urea
+22.0,68.97,27.7,Black,Cotton,21.73,8.15,45.23,DAP
+25.21,64.76,23.61,Loamy,Groundnut,8.93,8.57,13.8,SSP (Single Super Phosphate)
+26.3,55.49,45.49,Black,Maize,24.61,20.09,16.43,NPK 20-20-20
+19.68,46.91,32.37,Black,Tobacco,39.46,6.78,18.03,Urea
+11.24,48.2,26.22,Loamy,Tobacco,23.23,5.07,6.77,Ammonium Sulphate
+25.78,68.33,60.03,Clayey,Cotton,6.37,45.6,7.99,Potassium Chloride
+23.72,65.89,72.82,Sandy,Soybean,32.93,7.33,17.7,Urea
+31.93,64.44,60.44,Black,Groundnut,13.88,30.63,25.09,NPK 10-26-26
+26.62,67.21,72.29,Red,Pulses,8.48,8.11,19.56,SSP (Single Super Phosphate)
+23.2,59.58,57.82,Sandy,Groundnut,5.0,7.31,18.44,SSP (Single Super Phosphate)
+28.73,82.3,68.93,Clayey,Sugarcane,4.62,41.87,7.28,Potassium Chloride
+25.82,70.22,35.59,Sandy,Cotton,16.47,11.36,47.17,DAP
+25.38,77.39,53.94,Clayey,Barley,20.57,13.35,37.34,DAP
+20.74,72.3,27.15,Loamy,Pulses,9.36,31.53,27.57,NPK 10-26-26
+23.37,83.07,61.32,Sandy,Maize,5.2,45.39,5.35,Potassium Chloride
+27.48,55.54,33.2,Red,Sugarcane,7.2,8.25,12.68,SSP (Single Super Phosphate)
+29.34,63.17,52.27,Black,Groundnut,10.95,5.21,13.16,SSP (Single Super Phosphate)
+11.18,32.74,45.64,Red,Barley,19.39,7.19,5.56,Ammonium Sulphate
+24.16,58.32,31.28,Red,Sugarcane,17.99,16.16,16.93,NPK 20-20-20
+19.19,32.83,65.26,Black,Rice,18.66,3.51,6.2,Ammonium Sulphate
+24.64,61.12,74.64,Clayey,Cotton,46.96,13.76,11.84,Urea
+31.69,67.37,63.73,Clayey,Barley,6.77,45.27,4.47,Potassium Chloride
+12.16,51.3,52.02,Clayey,Soybean,19.5,4.63,5.42,Ammonium Sulphate
+28.61,61.79,21.72,Loamy,Barley,19.2,5.39,35.76,DAP
+21.37,59.44,22.58,Clayey,Soybean,18.8,7.86,39.75,DAP
+17.77,46.28,42.23,Loamy,Soybean,35.54,12.48,22.09,Urea
+28.42,55.29,44.55,Red,Tobacco,12.81,20.91,24.69,NPK 10-26-26
+18.94,68.04,64.83,Sandy,Barley,20.3,19.82,21.15,NPK 20-20-20
+33.33,66.34,32.27,Sandy,Maize,19.01,13.23,46.45,DAP
+20.64,73.64,56.21,Black,Cotton,20.0,18.92,21.79,NPK 20-20-20
+24.32,87.73,65.74,Clayey,Groundnut,4.88,38.39,5.34,Potassium Chloride
+28.36,57.81,60.75,Black,Pulses,34.23,6.2,14.91,Urea
+31.39,78.45,29.05,Red,Groundnut,6.67,46.28,5.57,Potassium Chloride
+24.29,56.1,65.71,Black,Pulses,23.64,8.75,43.83,DAP
+29.09,66.84,55.87,Red,Pulses,33.7,12.75,24.54,Urea
+25.81,68.94,35.96,Sandy,Groundnut,5.51,8.01,18.92,SSP (Single Super Phosphate)
+22.84,59.95,27.48,Loamy,Barley,13.88,21.3,28.17,NPK 10-26-26
+22.43,63.53,66.2,Sandy,Sugarcane,22.2,17.19,22.54,NPK 20-20-20
+19.77,65.85,56.97,Sandy,Maize,17.87,18.56,17.5,NPK 20-20-20
+29.82,56.96,20.86,Loamy,Wheat,22.84,8.13,43.49,DAP
+26.53,73.83,36.69,Black,Wheat,21.78,8.47,43.15,DAP
+30.08,63.85,35.91,Red,Sugarcane,6.04,34.13,3.77,Potassium Chloride
+29.83,79.75,24.36,Black,Cotton,15.04,6.67,45.23,DAP
+23.78,73.74,50.18,Clayey,Sugarcane,18.03,16.8,18.93,NPK 20-20-20
+24.72,71.72,44.89,Loamy,Soybean,9.26,7.69,18.46,SSP (Single Super Phosphate)
+25.8,52.78,32.92,Black,Barley,5.24,11.06,19.86,SSP (Single Super Phosphate)
+23.88,52.84,79.1,Sandy,Rice,15.53,17.6,20.43,NPK 20-20-20
+26.8,60.18,63.57,Sandy,Cotton,8.03,5.55,12.98,SSP (Single Super Phosphate)
+21.95,54.6,37.27,Black,Maize,5.9,7.9,12.28,SSP (Single Super Phosphate)
+30.1,79.99,52.79,Loamy,Cotton,3.38,38.7,7.79,Potassium Chloride
+27.31,51.16,52.98,Loamy,Groundnut,8.46,10.23,19.57,SSP (Single Super Phosphate)
+25.0,57.36,28.3,Sandy,Rice,23.08,20.56,21.93,NPK 20-20-20
+23.93,61.13,20.28,Sandy,Wheat,18.83,18.06,22.57,NPK 20-20-20
+27.35,57.26,38.21,Black,Cotton,9.82,9.9,19.16,SSP (Single Super Phosphate)
+28.59,85.2,54.91,Loamy,Maize,5.29,41.41,3.13,Potassium Chloride
+21.96,73.72,27.49,Sandy,Groundnut,22.22,13.7,43.0,DAP
+28.83,55.56,55.99,Loamy,Tobacco,19.15,8.86,45.69,DAP
+28.61,74.93,40.6,Black,Soybean,14.17,22.89,34.39,NPK 10-26-26
+32.6,78.54,76.7,Black,Rice,3.2,47.69,3.39,Potassium Chloride
+28.5,74.9,50.49,Black,Maize,5.51,8.91,16.55,SSP (Single Super Phosphate)
+24.52,68.38,66.03,Red,Tobacco,17.01,20.25,18.06,NPK 20-20-20
+15.6,66.01,54.72,Red,Tobacco,36.92,14.88,15.57,Urea
+17.7,37.27,31.06,Clayey,Rice,21.2,3.7,8.63,Ammonium Sulphate
+23.35,67.15,79.93,Black,Tobacco,9.0,24.24,28.7,NPK 10-26-26
+23.56,50.68,79.19,Clayey,Pulses,35.68,11.46,15.45,Urea
+22.4,55.33,54.15,Clayey,Cotton,24.95,7.68,9.76,Ammonium Sulphate
+21.86,66.52,53.07,Clayey,Tobacco,10.49,8.45,15.64,SSP (Single Super Phosphate)
+29.54,67.98,30.76,Red,Barley,21.49,6.56,39.13,DAP
+22.79,54.03,45.58,Clayey,Tobacco,10.16,8.58,13.03,SSP (Single Super Phosphate)
+25.15,54.48,49.58,Clayey,Sugarcane,46.94,14.57,15.32,Urea
+29.84,76.76,42.8,Red,Rice,3.8,34.37,5.42,Potassium Chloride
+22.39,67.37,24.34,Loamy,Wheat,10.65,26.2,27.76,NPK 10-26-26
+31.19,72.27,27.57,Red,Pulses,12.22,30.25,21.2,NPK 10-26-26
+22.99,61.64,28.48,Red,Pulses,40.79,11.74,19.42,Urea
+23.02,54.43,49.82,Black,Cotton,35.88,10.28,20.71,Urea
+25.34,73.39,61.69,Clayey,Soybean,4.45,45.25,4.33,Potassium Chloride
+24.15,32.95,35.91,Clayey,Groundnut,24.32,7.01,11.13,Ammonium Sulphate
+21.51,57.14,43.62,Sandy,Wheat,23.4,22.89,22.01,NPK 20-20-20
+21.5,41.31,29.7,Loamy,Maize,39.4,13.72,21.16,Urea
+26.38,64.7,33.76,Clayey,Pulses,6.0,10.41,17.13,SSP (Single Super Phosphate)
+27.13,72.27,29.69,Sandy,Soybean,11.39,25.37,26.28,NPK 10-26-26
+24.38,74.11,72.32,Black,Tobacco,7.09,49.84,3.03,Potassium Chloride
+19.51,48.55,22.21,Sandy,Rice,49.25,9.97,13.78,Urea
+33.55,52.33,69.73,Sandy,Barley,17.71,8.19,38.48,DAP
+13.48,57.04,70.03,Red,Soybean,23.57,4.15,7.92,Ammonium Sulphate
+26.76,72.46,59.07,Sandy,Sugarcane,17.4,8.48,37.13,DAP
+25.58,64.25,20.22,Red,Groundnut,5.24,39.36,7.59,Potassium Chloride
+28.35,62.47,45.74,Black,Maize,17.2,11.16,49.4,DAP
+22.7,62.09,46.43,Clayey,Pulses,4.73,46.15,4.01,Potassium Chloride
+19.36,50.9,23.32,Loamy,Groundnut,19.21,17.31,19.11,NPK 20-20-20
+25.7,78.49,65.01,Red,Tobacco,9.26,26.86,24.22,NPK 10-26-26
+22.05,48.39,73.01,Red,Pulses,45.37,14.95,10.65,Urea
+27.17,64.57,28.6,Sandy,Soybean,5.14,9.49,13.27,SSP (Single Super Phosphate)
+29.79,84.52,74.58,Clayey,Pulses,11.11,32.93,22.06,NPK 10-26-26
+27.68,72.39,41.27,Red,Sugarcane,8.22,9.86,16.52,SSP (Single Super Phosphate)
+21.7,50.01,54.83,Loamy,Cotton,37.57,14.95,15.44,Urea
+21.34,80.48,51.97,Red,Groundnut,12.34,30.49,29.58,NPK 10-26-26
+28.15,56.83,77.84,Clayey,Rice,18.95,9.76,35.59,DAP
+22.49,51.83,49.96,Black,Cotton,23.16,5.77,42.0,DAP
+25.61,73.66,73.26,Black,Pulses,18.44,22.72,24.97,NPK 20-20-20
+20.69,82.93,23.03,Sandy,Sugarcane,13.5,34.18,27.31,NPK 10-26-26
+26.95,73.55,66.89,Loamy,Rice,9.29,32.19,21.58,NPK 10-26-26
+14.52,47.35,49.89,Sandy,Barley,21.05,4.7,9.41,Ammonium Sulphate
+29.37,52.15,60.96,Loamy,Cotton,20.03,10.86,41.74,DAP
+21.64,71.13,31.1,Sandy,Soybean,8.48,34.27,34.88,NPK 10-26-26
+29.33,65.86,68.57,Sandy,Sugarcane,35.31,13.89,11.94,Urea
+23.1,63.2,27.64,Loamy,Rice,7.46,44.4,6.4,Potassium Chloride
+20.99,56.85,34.8,Red,Soybean,19.58,8.03,40.97,DAP
+19.04,51.32,21.2,Sandy,Wheat,38.95,7.42,17.99,Urea
+24.77,46.2,36.44,Red,Rice,46.41,13.2,19.39,Urea
+21.24,64.54,38.15,Red,Sugarcane,18.43,6.55,47.97,DAP
+24.49,67.96,26.15,Red,Cotton,40.83,8.42,24.44,Urea
+27.41,56.48,40.65,Black,Cotton,8.81,9.87,13.64,SSP (Single Super Phosphate)
+27.91,52.43,50.39,Black,Maize,21.71,18.81,18.18,NPK 20-20-20
+16.49,32.13,49.27,Clayey,Pulses,24.86,6.06,6.58,Ammonium Sulphate
+26.01,53.59,74.09,Black,Sugarcane,7.93,11.53,18.8,SSP (Single Super Phosphate)
+12.17,54.34,33.36,Clayey,Soybean,23.01,4.46,5.95,Ammonium Sulphate
+28.51,83.8,29.01,Sandy,Groundnut,4.71,33.77,3.53,Potassium Chloride
+21.38,67.55,33.58,Black,Rice,15.99,8.62,36.13,DAP
+20.2,68.12,22.13,Loamy,Groundnut,6.83,9.51,18.94,SSP (Single Super Phosphate)
+24.47,61.99,27.89,Red,Soybean,48.25,11.23,13.16,Urea
+32.3,63.91,65.76,Sandy,Soybean,4.46,36.31,6.4,Potassium Chloride
+26.15,71.68,51.16,Loamy,Barley,24.21,19.46,16.29,NPK 20-20-20
+27.37,81.77,24.72,Loamy,Sugarcane,13.02,30.1,31.65,NPK 10-26-26
+23.8,65.01,74.69,Sandy,Soybean,17.4,24.29,15.83,NPK 20-20-20
+32.37,77.87,38.87,Red,Soybean,6.89,40.7,6.88,Potassium Chloride
+21.88,55.14,69.64,Clayey,Maize,22.34,9.08,40.2,DAP
+26.51,77.3,42.64,Red,Maize,18.13,13.92,46.83,DAP
+24.06,71.83,21.93,Clayey,Groundnut,9.14,8.35,13.84,SSP (Single Super Phosphate)
+27.15,67.58,41.3,Black,Barley,6.51,5.47,16.75,SSP (Single Super Phosphate)
+20.05,84.98,68.14,Red,Soybean,12.7,21.7,20.78,NPK 10-26-26
+22.22,73.8,77.51,Red,Wheat,9.81,6.69,14.85,SSP (Single Super Phosphate)
+22.06,48.38,54.61,Clayey,Wheat,21.81,16.46,18.73,NPK 20-20-20
+22.51,67.49,41.39,Red,Groundnut,8.01,20.37,33.55,NPK 10-26-26
+26.89,46.45,53.8,Sandy,Pulses,16.13,24.98,18.51,NPK 20-20-20
+24.25,44.7,22.62,Sandy,Groundnut,39.72,10.21,23.8,Urea
+22.38,51.92,37.47,Sandy,Maize,23.57,15.89,19.15,NPK 20-20-20
+17.08,46.62,51.79,Loamy,Wheat,23.77,7.95,7.87,Ammonium Sulphate
+31.84,61.43,77.55,Red,Soybean,4.2,33.57,6.11,Potassium Chloride
+28.66,51.31,27.38,Sandy,Pulses,19.22,9.86,39.43,DAP
+34.52,52.0,58.9,Clayey,Rice,23.77,10.42,40.84,DAP
+27.61,63.08,75.45,Clayey,Rice,10.46,9.95,19.0,SSP (Single Super Phosphate)
+27.23,74.1,75.84,Black,Sugarcane,11.53,10.38,12.28,SSP (Single Super Phosphate)
+26.84,61.07,27.26,Red,Groundnut,21.87,8.84,36.72,DAP
+34.71,65.37,26.86,Loamy,Wheat,19.96,9.39,49.0,DAP
+21.69,63.59,51.08,Clayey,Pulses,13.18,21.79,31.84,NPK 10-26-26
+25.33,70.95,43.71,Loamy,Rice,15.14,12.32,47.44,DAP
+21.21,78.19,65.31,Sandy,Cotton,16.51,10.96,41.49,DAP
+25.22,47.4,30.99,Red,Sugarcane,23.95,18.49,15.24,NPK 20-20-20
+24.78,49.36,43.94,Black,Sugarcane,41.59,5.95,19.94,Urea
+18.61,66.44,57.4,Sandy,Pulses,24.25,20.0,23.68,NPK 20-20-20
+26.85,69.36,71.72,Loamy,Pulses,9.82,25.65,20.02,NPK 10-26-26
+27.04,70.78,22.41,Loamy,Wheat,8.77,11.85,14.84,SSP (Single Super Phosphate)
+16.38,40.45,62.61,Black,Pulses,21.95,7.98,5.8,Ammonium Sulphate
+27.69,66.69,71.29,Sandy,Maize,10.33,10.55,15.62,SSP (Single Super Phosphate)
+34.22,71.47,46.82,Loamy,Tobacco,7.33,48.98,6.71,Potassium Chloride
+23.37,65.49,37.16,Sandy,Rice,9.88,11.11,14.48,SSP (Single Super Phosphate)
+28.12,66.85,34.51,Red,Groundnut,11.11,5.93,14.66,SSP (Single Super Phosphate)
+29.98,68.83,78.25,Clayey,Groundnut,7.99,11.29,16.26,SSP (Single Super Phosphate)
+31.84,67.2,59.53,Red,Sugarcane,17.85,7.68,41.44,DAP
+28.31,83.54,49.13,Red,Wheat,3.38,33.92,3.37,Potassium Chloride
+23.69,70.72,55.81,Clayey,Groundnut,17.31,11.16,48.74,DAP
+20.29,50.58,50.99,Red,Tobacco,7.42,10.06,19.19,SSP (Single Super Phosphate)
+24.68,58.96,44.98,Sandy,Wheat,20.19,5.43,7.44,Ammonium Sulphate
+34.62,50.83,70.39,Sandy,Pulses,23.47,13.77,48.53,DAP
+25.85,69.65,53.27,Black,Soybean,24.41,19.63,19.86,NPK 20-20-20
+26.57,51.23,24.14,Black,Groundnut,45.8,11.51,10.35,Urea
+20.84,48.66,41.34,Sandy,Soybean,31.66,7.45,19.05,Urea
+18.91,64.45,44.79,Loamy,Tobacco,18.88,24.15,15.96,NPK 20-20-20
+25.31,75.06,38.92,Black,Tobacco,10.52,26.39,21.15,NPK 10-26-26
+31.04,59.91,74.36,Red,Groundnut,22.09,5.31,49.23,DAP
+24.98,65.27,39.35,Sandy,Cotton,4.29,37.11,7.25,Potassium Chloride
+30.62,57.6,52.3,Red,Barley,8.24,32.25,26.69,NPK 10-26-26
+22.41,81.4,31.7,Red,Rice,8.81,30.0,28.82,NPK 10-26-26
+19.2,54.62,72.06,Red,Wheat,21.69,21.07,24.73,NPK 20-20-20
+17.13,48.24,55.82,Loamy,Maize,35.14,5.58,19.48,Urea
+25.57,54.96,64.67,Loamy,Wheat,18.47,23.94,22.46,NPK 20-20-20
+22.01,48.91,71.17,Loamy,Sugarcane,40.45,5.03,20.98,Urea
+22.5,82.61,51.51,Loamy,Tobacco,5.53,49.39,3.43,Potassium Chloride
+11.09,54.63,49.58,Sandy,Soybean,19.75,6.59,11.23,Ammonium Sulphate
+25.72,59.2,57.06,Loamy,Sugarcane,21.37,21.77,17.21,NPK 20-20-20
+24.96,63.06,44.89,Clayey,Sugarcane,7.79,44.61,7.98,Potassium Chloride
+17.71,47.19,75.55,Sandy,Sugarcane,21.62,4.32,5.1,Ammonium Sulphate
+22.42,68.12,35.84,Red,Barley,19.8,16.51,19.02,NPK 20-20-20
+23.96,47.69,40.24,Clayey,Wheat,15.76,19.28,23.28,NPK 20-20-20
+24.46,57.77,47.47,Sandy,Pulses,14.08,30.77,28.75,NPK 10-26-26
+20.77,52.28,23.05,Loamy,Sugarcane,18.36,4.69,7.66,Ammonium Sulphate
+24.89,76.34,28.44,Black,Maize,7.59,40.12,5.73,Potassium Chloride
+22.92,70.1,29.82,Sandy,Tobacco,24.7,17.69,16.12,NPK 20-20-20
+25.03,59.98,55.48,Black,Maize,38.99,8.71,11.43,Urea
+24.78,68.74,71.27,Red,Tobacco,4.0,42.28,5.07,Potassium Chloride
+19.7,54.48,45.47,Loamy,Barley,24.78,20.56,24.94,NPK 20-20-20
+28.35,42.38,63.89,Clayey,Pulses,41.2,12.19,17.91,Urea
+29.08,57.86,21.65,Loamy,Maize,14.87,21.77,31.11,NPK 10-26-26
+18.35,54.6,55.8,Red,Cotton,19.98,24.02,19.76,NPK 20-20-20
+34.49,53.82,62.46,Black,Maize,15.18,5.27,41.32,DAP
+21.29,67.7,47.14,Clayey,Cotton,12.02,27.7,27.72,NPK 10-26-26
+29.34,68.82,79.33,Loamy,Tobacco,14.03,20.15,32.99,NPK 10-26-26
+25.2,72.55,44.48,Clayey,Cotton,17.45,19.16,23.81,NPK 20-20-20
+26.41,46.08,59.5,Red,Cotton,24.63,24.83,21.08,NPK 20-20-20
+21.19,61.15,55.9,Sandy,Soybean,39.48,8.52,15.17,Urea
+14.88,34.74,40.31,Red,Cotton,18.36,5.64,11.6,Ammonium Sulphate
+32.4,71.27,30.63,Clayey,Sugarcane,17.47,8.56,47.58,DAP
+16.64,44.82,38.73,Clayey,Maize,22.68,3.82,10.64,Ammonium Sulphate
+24.17,60.69,28.0,Sandy,Sugarcane,3.2,38.13,4.93,Potassium Chloride
+29.75,74.06,34.1,Black,Wheat,11.53,9.86,13.9,SSP (Single Super Phosphate)
+23.23,58.79,23.8,Clayey,Barley,6.31,6.98,16.34,SSP (Single Super Phosphate)
+20.33,48.47,39.57,Loamy,Soybean,15.8,23.58,18.59,NPK 20-20-20
+23.27,48.49,45.72,Black,Barley,22.54,4.05,10.08,Ammonium Sulphate
+21.99,64.98,76.4,Clayey,Soybean,13.46,23.41,27.07,NPK 10-26-26
+17.56,52.28,45.36,Red,Wheat,49.23,12.55,19.52,Urea
+22.82,62.14,69.53,Black,Soybean,22.32,24.45,18.84,NPK 20-20-20
+10.43,48.88,78.56,Loamy,Soybean,19.44,3.84,10.52,Ammonium Sulphate
+19.85,54.66,66.22,Loamy,Soybean,45.17,5.22,10.37,Urea
+23.36,66.28,78.2,Sandy,Maize,3.45,30.66,3.57,Potassium Chloride
+11.67,55.19,79.83,Sandy,Sugarcane,24.94,4.54,11.49,Ammonium Sulphate
+31.61,81.7,56.03,Red,Pulses,8.28,32.41,31.12,NPK 10-26-26
+29.64,84.42,56.36,Red,Rice,13.85,20.22,27.54,NPK 10-26-26
+32.43,71.39,61.8,Red,Wheat,17.15,10.59,48.27,DAP
+15.27,55.12,24.01,Loamy,Soybean,20.44,3.48,10.35,Ammonium Sulphate
+21.58,62.55,71.75,Sandy,Tobacco,7.81,9.25,19.51,SSP (Single Super Phosphate)
+20.81,79.95,30.64,Loamy,Tobacco,11.05,28.84,28.91,NPK 10-26-26
+19.45,59.47,39.7,Sandy,Tobacco,36.34,8.76,23.03,Urea
+26.7,61.75,43.02,Red,Rice,7.4,7.75,12.61,SSP (Single Super Phosphate)
+20.4,54.71,31.03,Clayey,Cotton,15.53,24.55,22.55,NPK 20-20-20
+31.23,77.44,46.04,Red,Pulses,15.08,5.93,41.5,DAP
+28.62,49.49,55.3,Loamy,Groundnut,33.73,11.34,13.54,Urea
+24.63,74.73,66.18,Red,Sugarcane,9.62,5.53,18.85,SSP (Single Super Phosphate)
+19.62,59.59,64.31,Sandy,Pulses,17.83,21.71,19.61,NPK 20-20-20
+25.62,42.02,54.93,Sandy,Barley,43.76,8.01,11.02,Urea
+30.69,50.34,44.53,Clayey,Sugarcane,15.28,7.81,38.15,DAP
+24.54,62.32,42.88,Red,Rice,6.55,5.73,17.39,SSP (Single Super Phosphate)
+21.31,66.7,70.71,Clayey,Cotton,18.75,8.67,46.97,DAP
+21.92,72.78,21.16,Sandy,Sugarcane,6.33,5.55,14.7,SSP (Single Super Phosphate)
+20.76,64.74,60.37,Clayey,Groundnut,8.29,29.35,20.74,NPK 10-26-26
+19.94,55.37,41.47,Loamy,Groundnut,21.27,24.73,18.16,NPK 20-20-20
+20.14,58.73,27.93,Red,Cotton,11.28,11.61,14.66,SSP (Single Super Phosphate)
+23.07,74.04,54.71,Sandy,Cotton,5.93,6.68,12.91,SSP (Single Super Phosphate)
+28.36,51.17,60.01,Sandy,Groundnut,15.34,7.43,48.19,DAP
+32.75,55.89,27.53,Loamy,Tobacco,17.85,11.17,41.65,DAP
+28.51,52.65,36.61,Black,Tobacco,44.51,13.73,17.3,Urea
+22.7,52.95,68.21,Loamy,Soybean,24.72,6.59,41.73,DAP
+22.22,71.24,58.73,Sandy,Tobacco,8.34,20.66,21.47,NPK 10-26-26
+24.21,71.49,72.3,Red,Maize,7.3,37.97,5.02,Potassium Chloride
+31.94,67.32,70.33,Black,Barley,5.87,38.05,4.46,Potassium Chloride
+24.76,71.32,34.83,Sandy,Rice,6.15,10.69,18.77,SSP (Single Super Phosphate)
+23.68,75.33,29.22,Sandy,Tobacco,7.9,35.3,4.52,Potassium Chloride
+18.4,37.65,35.75,Sandy,Groundnut,19.37,7.09,9.49,Ammonium Sulphate
+26.79,55.46,66.83,Red,Soybean,8.73,27.8,24.02,NPK 10-26-26
+29.08,61.61,45.45,Sandy,Barley,8.02,6.91,16.22,SSP (Single Super Phosphate)
+25.34,46.65,73.27,Loamy,Wheat,16.48,20.27,20.54,NPK 20-20-20
+32.48,63.92,34.53,Loamy,Rice,5.93,33.77,7.55,Potassium Chloride
+22.3,75.0,57.4,Red,Pulses,14.46,28.88,31.43,NPK 10-26-26
+29.73,66.53,56.05,Clayey,Rice,45.96,10.89,13.88,Urea
+30.39,85.46,44.1,Red,Maize,7.66,35.25,6.42,Potassium Chloride
+14.51,46.18,66.6,Black,Tobacco,22.61,3.83,5.45,Ammonium Sulphate
+23.86,45.25,65.66,Black,Wheat,19.42,20.22,18.34,NPK 20-20-20
+28.3,57.65,64.55,Loamy,Cotton,15.08,9.43,48.87,DAP
+27.75,59.67,52.82,Black,Rice,11.52,31.09,31.95,NPK 10-26-26
+21.33,52.52,35.93,Sandy,Rice,20.55,5.22,11.72,Ammonium Sulphate
+28.71,82.53,74.5,Clayey,Rice,11.88,34.02,28.82,NPK 10-26-26
+29.79,59.13,47.48,Red,Maize,5.28,9.22,19.96,SSP (Single Super Phosphate)
+23.68,64.78,24.25,Black,Rice,10.13,29.18,22.09,NPK 10-26-26
+23.4,71.91,55.93,Black,Cotton,17.84,5.74,47.37,DAP
+24.56,59.15,54.3,Loamy,Pulses,24.84,22.74,22.36,NPK 20-20-20
+20.49,45.46,30.01,Loamy,Rice,23.36,21.76,16.01,NPK 20-20-20
+24.3,51.58,67.35,Loamy,Sugarcane,10.41,5.27,12.42,SSP (Single Super Phosphate)
+29.96,66.9,54.56,Black,Cotton,31.03,11.97,10.27,Urea
+27.54,60.88,44.54,Loamy,Tobacco,31.57,14.63,10.38,Urea
+22.45,64.36,66.1,Red,Sugarcane,7.93,11.22,18.52,SSP (Single Super Phosphate)
+27.52,50.44,36.08,Black,Barley,11.05,6.72,14.51,SSP (Single Super Phosphate)
+17.78,56.26,72.38,Clayey,Wheat,32.74,9.46,24.25,Urea
+33.73,71.57,66.75,Loamy,Barley,6.89,43.56,4.24,Potassium Chloride
+27.01,61.72,72.11,Red,Soybean,23.46,15.4,21.11,NPK 20-20-20
+20.4,56.18,33.82,Clayey,Barley,19.16,17.3,23.5,NPK 20-20-20
+20.26,53.82,57.61,Black,Pulses,7.86,5.94,16.19,SSP (Single Super Phosphate)
+10.5,50.23,44.28,Loamy,Groundnut,23.8,5.59,7.88,Ammonium Sulphate
+31.49,64.94,53.95,Loamy,Rice,7.17,47.73,3.7,Potassium Chloride
+21.93,40.04,55.9,Red,Cotton,48.24,6.85,24.51,Urea
+30.67,72.08,57.9,Loamy,Maize,11.32,28.69,25.01,NPK 10-26-26
+23.4,61.45,27.73,Black,Cotton,16.69,8.8,40.85,DAP
+12.3,42.63,24.11,Black,Barley,20.84,3.07,7.36,Ammonium Sulphate
+34.19,63.86,25.26,Black,Barley,6.52,42.72,7.46,Potassium Chloride
+23.29,71.91,70.59,Sandy,Wheat,5.66,11.88,15.43,SSP (Single Super Phosphate)
+25.93,79.05,54.87,Clayey,Maize,5.63,49.83,3.57,Potassium Chloride
+18.66,40.62,69.25,Red,Wheat,18.42,7.42,9.6,Ammonium Sulphate
+25.5,60.45,38.14,Sandy,Cotton,11.2,33.95,22.24,NPK 10-26-26
+26.5,73.88,35.41,Red,Groundnut,9.46,33.59,32.73,NPK 10-26-26
+24.18,53.89,60.57,Sandy,Pulses,17.54,6.83,48.13,DAP
+26.99,53.82,26.48,Black,Rice,7.6,6.92,16.88,SSP (Single Super Phosphate)
+30.83,66.5,32.98,Sandy,Tobacco,10.67,28.99,20.82,NPK 10-26-26
+27.73,68.72,34.58,Black,Groundnut,23.82,22.11,16.47,NPK 20-20-20
+10.81,47.9,25.21,Sandy,Cotton,18.09,4.49,5.67,Ammonium Sulphate
+20.28,53.49,54.22,Loamy,Groundnut,6.73,11.65,13.85,SSP (Single Super Phosphate)
+23.35,83.68,51.94,Loamy,Rice,6.83,44.68,4.81,Potassium Chloride
+30.35,73.74,67.54,Black,Cotton,6.76,33.94,4.04,Potassium Chloride
+23.38,89.08,31.98,Black,Sugarcane,5.54,33.68,4.72,Potassium Chloride
+22.9,64.42,61.65,Clayey,Groundnut,3.22,45.31,4.22,Potassium Chloride
+22.55,50.57,66.75,Black,Groundnut,19.55,13.37,45.02,DAP
+29.53,52.72,21.96,Black,Wheat,19.95,9.82,42.69,DAP
+20.69,63.43,29.61,Clayey,Groundnut,5.65,5.53,18.33,SSP (Single Super Phosphate)
+24.49,60.76,68.27,Black,Groundnut,22.23,6.34,45.39,DAP
+20.57,40.17,26.66,Red,Tobacco,21.43,5.68,5.26,Ammonium Sulphate
+26.59,51.26,49.6,Sandy,Maize,7.37,8.13,16.57,SSP (Single Super Phosphate)
+22.4,86.86,23.03,Red,Cotton,5.61,47.84,3.97,Potassium Chloride
+23.08,57.78,26.06,Loamy,Groundnut,8.11,21.35,25.4,NPK 10-26-26
+19.3,50.97,55.26,Sandy,Groundnut,16.17,18.09,24.86,NPK 20-20-20
+24.76,66.17,49.35,Clayey,Groundnut,22.34,22.2,18.71,NPK 20-20-20
+20.2,64.05,47.92,Sandy,Wheat,7.31,6.4,16.39,SSP (Single Super Phosphate)
+15.32,32.18,60.39,Clayey,Wheat,24.21,5.19,6.98,Ammonium Sulphate
+32.86,71.97,46.88,Sandy,Barley,6.17,44.45,3.09,Potassium Chloride
+21.2,57.65,33.78,Black,Groundnut,23.96,15.04,23.07,NPK 20-20-20
+24.24,62.76,30.89,Loamy,Rice,11.02,7.05,12.14,SSP (Single Super Phosphate)
+20.61,50.15,31.77,Loamy,Barley,21.56,4.88,8.03,Ammonium Sulphate
+22.23,63.88,78.86,Red,Cotton,17.76,14.44,48.16,DAP
+24.62,51.22,74.35,Sandy,Pulses,23.14,20.28,15.36,NPK 20-20-20
+26.81,70.65,28.43,Clayey,Groundnut,18.65,14.88,38.27,DAP
+22.6,63.33,40.62,Sandy,Soybean,4.69,31.69,3.61,Potassium Chloride
+15.76,42.97,78.76,Clayey,Pulses,20.79,5.26,7.17,Ammonium Sulphate
+25.26,52.28,46.19,Loamy,Cotton,11.79,6.56,13.39,SSP (Single Super Phosphate)
+22.21,43.15,34.52,Sandy,Barley,47.2,5.4,21.7,Urea
+18.03,66.87,48.52,Clayey,Cotton,44.21,9.39,11.66,Urea
+26.4,74.76,72.75,Black,Tobacco,6.26,5.78,13.62,SSP (Single Super Phosphate)
+29.03,68.42,57.52,Red,Soybean,42.33,7.99,19.19,Urea
+28.3,62.85,57.45,Clayey,Maize,14.11,27.31,21.31,NPK 10-26-26
+26.25,74.07,69.89,Black,Groundnut,9.81,7.77,19.94,SSP (Single Super Phosphate)
+20.43,50.04,21.57,Sandy,Barley,41.44,6.84,18.82,Urea
+17.05,46.64,70.59,Sandy,Barley,20.18,7.16,11.89,Ammonium Sulphate
+20.96,54.98,62.89,Sandy,Sugarcane,19.27,4.37,8.79,Ammonium Sulphate
+27.62,53.7,71.18,Clayey,Groundnut,15.6,16.24,20.18,NPK 20-20-20
+24.15,74.61,41.01,Clayey,Sugarcane,10.75,32.91,29.25,NPK 10-26-26
+21.51,42.66,33.24,Black,Pulses,38.8,8.28,12.21,Urea
+30.59,61.11,72.4,Sandy,Maize,11.08,30.26,32.85,NPK 10-26-26
+25.07,72.6,36.24,Red,Groundnut,15.79,15.78,23.81,NPK 20-20-20
+19.96,44.69,51.05,Red,Cotton,21.01,5.09,7.97,Ammonium Sulphate
+29.09,63.96,79.88,Red,Wheat,30.43,10.29,23.12,Urea
+24.11,52.93,37.23,Clayey,Cotton,20.44,20.2,20.6,NPK 20-20-20
+20.49,52.71,51.48,Red,Wheat,9.97,6.39,16.66,SSP (Single Super Phosphate)
+21.22,74.89,78.61,Black,Barley,18.9,6.38,42.2,DAP
+21.49,56.27,75.54,Black,Tobacco,24.77,6.36,42.98,DAP
+23.58,84.3,48.88,Sandy,Cotton,5.97,46.66,6.54,Potassium Chloride
+20.64,31.5,24.16,Loamy,Rice,19.32,5.73,5.79,Ammonium Sulphate
+10.29,54.92,28.65,Clayey,Wheat,19.37,7.03,5.19,Ammonium Sulphate
+24.55,79.0,57.69,Sandy,Soybean,24.24,13.33,49.63,DAP
+28.11,69.52,66.1,Sandy,Soybean,38.04,11.28,17.2,Urea
+28.67,59.86,75.49,Clayey,Tobacco,8.51,6.2,14.89,SSP (Single Super Phosphate)
+25.41,70.14,36.24,Loamy,Tobacco,18.97,12.38,37.34,DAP
+20.51,42.05,21.55,Sandy,Cotton,40.05,6.46,15.98,Urea
+25.5,66.9,45.87,Clayey,Maize,8.73,27.97,28.53,NPK 10-26-26
+20.97,75.17,61.35,Loamy,Cotton,8.98,20.56,27.8,NPK 10-26-26
+28.68,59.16,22.59,Loamy,Maize,7.68,9.85,19.52,SSP (Single Super Phosphate)
+24.19,73.68,68.83,Red,Sugarcane,6.81,31.09,5.15,Potassium Chloride
+32.6,55.66,60.35,Sandy,Tobacco,19.5,8.99,49.36,DAP
+29.35,67.08,57.24,Clayey,Soybean,19.02,13.8,49.91,DAP
+22.18,60.26,48.61,Loamy,Tobacco,17.01,18.38,16.79,NPK 20-20-20
+28.88,71.08,34.25,Red,Cotton,19.43,11.31,44.11,DAP
+20.93,62.92,32.81,Sandy,Barley,11.8,7.45,17.82,SSP (Single Super Phosphate)
+20.21,46.04,44.55,Black,Maize,17.83,21.74,21.87,NPK 20-20-20
+20.24,61.78,73.83,Sandy,Groundnut,48.01,8.39,19.5,Urea
+22.11,63.64,30.79,Loamy,Sugarcane,11.75,10.59,14.6,SSP (Single Super Phosphate)
+31.38,76.33,20.41,Red,Soybean,8.97,20.72,31.21,NPK 10-26-26
+26.41,59.19,22.34,Clayey,Wheat,21.03,23.88,17.96,NPK 20-20-20
+21.1,66.12,66.94,Clayey,Pulses,49.99,14.77,10.72,Urea
+22.55,55.85,73.42,Clayey,Tobacco,21.71,12.42,44.31,DAP
+30.4,59.94,44.91,Black,Soybean,11.12,23.71,20.22,NPK 10-26-26
+26.18,55.39,68.46,Loamy,Maize,22.56,24.05,17.76,NPK 20-20-20
+26.11,67.07,59.83,Sandy,Soybean,16.89,20.29,20.08,NPK 20-20-20
+30.38,63.74,33.59,Sandy,Wheat,18.48,5.53,35.76,DAP
+20.08,70.7,75.29,Sandy,Cotton,10.19,25.97,29.54,NPK 10-26-26
+21.9,57.45,30.17,Sandy,Tobacco,24.42,3.77,8.92,Ammonium Sulphate
+16.22,53.04,22.43,Red,Soybean,24.94,7.21,9.81,Ammonium Sulphate
+24.11,56.08,27.75,Loamy,Pulses,11.49,6.89,14.06,SSP (Single Super Phosphate)
+24.63,82.46,65.72,Loamy,Cotton,10.77,26.37,22.99,NPK 10-26-26
+27.9,60.41,47.03,Loamy,Cotton,37.65,9.67,24.75,Urea
+28.76,72.02,51.29,Red,Groundnut,4.09,49.2,4.67,Potassium Chloride
+11.95,43.61,50.42,Black,Tobacco,19.7,6.87,6.18,Ammonium Sulphate
+30.11,51.88,32.63,Red,Rice,16.3,8.55,38.85,DAP
+34.92,66.36,25.29,Black,Cotton,18.75,9.44,42.11,DAP
+20.87,45.47,65.32,Loamy,Cotton,42.2,6.73,22.5,Urea
+18.35,68.72,54.38,Loamy,Pulses,36.45,6.54,10.34,Urea
+31.33,88.31,61.61,Loamy,Tobacco,5.43,46.87,3.43,Potassium Chloride
+22.22,52.76,68.92,Clayey,Cotton,15.14,10.54,39.84,DAP
+17.67,60.75,57.08,Red,Soybean,31.49,7.65,21.74,Urea
+16.28,41.55,51.88,Black,Soybean,45.4,11.23,13.24,Urea
+32.0,75.89,29.04,Red,Cotton,20.47,6.27,47.6,DAP
+29.53,63.96,37.57,Loamy,Barley,42.88,5.42,17.95,Urea
+26.18,73.74,69.46,Clayey,Rice,18.65,22.88,20.35,NPK 20-20-20
+21.29,64.78,37.64,Red,Tobacco,17.81,17.68,24.99,NPK 20-20-20
+21.07,57.17,68.24,Red,Barley,47.7,9.41,17.95,Urea
+17.27,39.17,51.06,Sandy,Rice,22.61,7.36,6.91,Ammonium Sulphate
+26.54,60.95,66.56,Black,Cotton,6.67,7.77,13.81,SSP (Single Super Phosphate)
+32.34,67.22,47.63,Red,Cotton,4.75,31.29,5.22,Potassium Chloride
+27.79,66.8,75.72,Clayey,Barley,18.67,21.89,16.06,NPK 20-20-20
+26.1,84.75,35.97,Loamy,Barley,12.52,30.99,33.38,NPK 10-26-26
+25.32,60.27,56.12,Red,Rice,9.47,11.02,13.37,SSP (Single Super Phosphate)
+26.46,58.91,60.43,Loamy,Pulses,5.22,7.6,17.3,SSP (Single Super Phosphate)
+23.64,68.4,50.78,Clayey,Soybean,7.74,10.47,12.95,SSP (Single Super Phosphate)
+25.22,83.59,63.15,Red,Barley,11.92,30.0,32.87,NPK 10-26-26
+14.06,38.57,36.25,Clayey,Groundnut,23.74,3.86,10.98,Ammonium Sulphate
+25.76,63.5,54.76,Sandy,Soybean,23.62,7.26,43.85,DAP
+26.43,76.52,46.61,Red,Cotton,14.0,25.4,27.0,NPK 10-26-26
+22.85,73.03,28.11,Red,Wheat,3.7,41.56,4.09,Potassium Chloride
+26.93,62.44,20.8,Sandy,Sugarcane,22.94,8.45,48.27,DAP
+24.34,58.76,35.22,Sandy,Cotton,8.43,30.72,20.46,NPK 10-26-26
+27.38,69.36,56.42,Red,Cotton,6.36,7.69,15.32,SSP (Single Super Phosphate)
+29.87,77.59,63.97,Sandy,Rice,11.88,24.22,27.69,NPK 10-26-26
+14.55,55.92,66.89,Clayey,Tobacco,20.73,7.65,11.05,Ammonium Sulphate
+26.97,74.48,43.95,Clayey,Cotton,15.75,19.83,22.08,NPK 20-20-20
+24.29,48.92,45.82,Sandy,Maize,34.24,12.54,17.27,Urea
+29.78,85.64,42.89,Red,Maize,4.7,30.84,4.68,Potassium Chloride
+18.75,36.9,28.89,Clayey,Barley,20.22,3.19,6.81,Ammonium Sulphate
+22.73,54.24,49.04,Clayey,Maize,9.57,11.61,18.71,SSP (Single Super Phosphate)
+23.04,49.29,68.83,Red,Maize,49.49,11.98,24.79,Urea
+22.75,47.82,79.78,Red,Sugarcane,34.57,14.82,12.62,Urea
+29.36,64.79,68.05,Sandy,Pulses,30.94,5.37,15.76,Urea
+22.28,76.69,76.64,Sandy,Rice,15.93,6.35,49.46,DAP
+22.08,76.74,50.32,Black,Soybean,14.96,30.09,22.62,NPK 10-26-26
+20.95,45.46,33.21,Loamy,Cotton,17.53,20.2,19.37,NPK 20-20-20
+23.8,62.36,45.9,Black,Tobacco,39.97,10.37,11.3,Urea
+22.8,37.94,51.17,Sandy,Tobacco,22.51,6.05,10.96,Ammonium Sulphate
+22.09,67.45,26.81,Red,Tobacco,16.34,24.13,18.2,NPK 20-20-20
+23.82,57.98,71.17,Sandy,Barley,8.83,10.06,16.46,SSP (Single Super Phosphate)
+24.65,50.34,48.9,Sandy,Rice,7.3,6.29,18.56,SSP (Single Super Phosphate)
+20.29,60.37,46.01,Loamy,Tobacco,5.8,6.96,17.26,SSP (Single Super Phosphate)
+17.46,34.04,49.76,Clayey,Tobacco,20.86,5.72,8.81,Ammonium Sulphate
+22.11,68.67,66.88,Clayey,Maize,18.66,6.96,38.38,DAP
+34.24,77.66,38.67,Clayey,Sugarcane,5.17,34.67,5.97,Potassium Chloride
+34.25,66.49,66.29,Clayey,Soybean,6.44,45.34,7.93,Potassium Chloride
+18.13,73.34,49.35,Black,Barley,19.56,23.79,15.31,NPK 20-20-20
+22.81,58.79,41.75,Black,Rice,17.39,21.15,19.15,NPK 20-20-20
+27.46,55.48,24.31,Sandy,Sugarcane,6.47,11.09,14.63,SSP (Single Super Phosphate)
+11.49,55.17,75.89,Clayey,Wheat,21.57,6.75,5.91,Ammonium Sulphate
+29.5,86.19,71.82,Black,Groundnut,4.07,38.41,7.17,Potassium Chloride
+28.74,79.39,35.45,Red,Tobacco,10.86,22.05,24.19,NPK 10-26-26
+20.91,70.7,61.41,Loamy,Sugarcane,18.37,10.39,45.87,DAP
+21.0,60.93,30.8,Red,Groundnut,40.75,10.85,16.9,Urea
+22.28,53.45,79.67,Red,Wheat,49.47,8.05,14.26,Urea
+29.88,88.49,40.37,Sandy,Groundnut,6.54,46.28,3.67,Potassium Chloride
+21.31,52.7,31.59,Clayey,Sugarcane,17.22,7.59,39.76,DAP
+22.05,67.07,65.86,Sandy,Pulses,11.43,5.09,17.36,SSP (Single Super Phosphate)
+26.29,63.75,67.38,Clayey,Sugarcane,35.86,11.73,14.93,Urea
+21.69,77.91,26.52,Clayey,Tobacco,9.25,34.22,25.88,NPK 10-26-26
+22.94,68.32,36.84,Sandy,Barley,24.72,9.82,39.97,DAP
+28.58,63.13,65.62,Loamy,Pulses,9.78,21.34,33.17,NPK 10-26-26
+31.93,61.98,23.23,Loamy,Groundnut,13.03,20.53,21.66,NPK 10-26-26
+23.1,57.6,77.92,Red,Pulses,49.22,12.47,22.67,Urea
+26.76,61.15,64.52,Clayey,Tobacco,10.93,25.08,31.64,NPK 10-26-26
+18.57,71.81,51.79,Loamy,Soybean,24.5,21.03,15.63,NPK 20-20-20
+27.31,52.33,44.45,Black,Maize,23.46,5.89,44.2,DAP
+25.16,57.2,27.71,Clayey,Maize,47.34,13.01,19.55,Urea
+34.87,62.72,60.03,Sandy,Tobacco,6.98,43.43,5.92,Potassium Chloride
+18.54,44.97,31.18,Sandy,Wheat,46.81,6.23,23.66,Urea
+20.72,60.8,77.41,Red,Pulses,16.05,11.44,46.73,DAP
+18.56,71.05,37.68,Black,Maize,24.82,16.34,16.98,NPK 20-20-20
+25.74,42.16,24.28,Sandy,Sugarcane,43.6,5.85,10.63,Urea
+18.46,53.71,31.42,Loamy,Soybean,35.42,11.8,18.89,Urea
+23.49,48.71,20.34,Red,Sugarcane,20.04,7.02,9.3,Ammonium Sulphate
+22.19,68.36,65.45,Black,Soybean,8.04,10.89,15.1,SSP (Single Super Phosphate)
+28.03,79.45,35.64,Clayey,Tobacco,13.15,27.81,33.0,NPK 10-26-26
+19.35,59.06,76.31,Black,Wheat,17.32,23.1,16.81,NPK 20-20-20
+26.76,69.09,39.09,Loamy,Rice,5.92,9.04,14.61,SSP (Single Super Phosphate)
+25.18,85.66,54.98,Red,Pulses,4.2,31.71,6.42,Potassium Chloride
+30.47,60.92,53.97,Loamy,Tobacco,22.82,7.48,39.71,DAP
+18.62,69.28,68.09,Clayey,Cotton,40.71,5.12,13.23,Urea
+21.04,61.06,52.73,Sandy,Wheat,13.98,25.41,30.88,NPK 10-26-26
+34.62,72.74,70.09,Black,Cotton,4.35,47.66,5.24,Potassium Chloride
+26.7,68.56,59.92,Clayey,Groundnut,24.85,9.34,46.52,DAP
+33.57,85.36,37.82,Loamy,Cotton,7.24,39.77,6.15,Potassium Chloride
+21.82,59.56,39.71,Sandy,Rice,10.7,33.29,25.61,NPK 10-26-26
+30.23,81.6,29.65,Clayey,Pulses,3.57,32.58,7.34,Potassium Chloride
+22.15,57.08,22.17,Sandy,Sugarcane,21.91,23.75,19.04,NPK 20-20-20
+22.74,45.65,76.0,Red,Tobacco,21.92,3.77,7.32,Ammonium Sulphate
+15.17,54.06,23.38,Red,Groundnut,48.13,9.93,11.67,Urea
+13.73,49.28,36.51,Loamy,Sugarcane,20.37,7.66,7.17,Ammonium Sulphate
+15.95,69.7,39.34,Loamy,Cotton,31.04,6.34,15.05,Urea
+23.32,71.75,40.82,Red,Groundnut,11.05,26.57,29.87,NPK 10-26-26
+28.24,64.11,50.31,Sandy,Soybean,38.81,5.83,19.23,Urea
+20.28,45.35,27.82,Red,Groundnut,16.5,17.54,20.72,NPK 20-20-20
+20.35,76.96,66.99,Sandy,Groundnut,21.46,13.47,49.61,DAP
+31.19,79.07,28.9,Sandy,Barley,3.07,30.38,6.42,Potassium Chloride
+20.74,42.5,65.44,Sandy,Groundnut,21.48,6.06,5.22,Ammonium Sulphate
+21.88,83.43,66.01,Loamy,Cotton,8.41,26.54,23.93,NPK 10-26-26
+23.28,89.38,37.76,Loamy,Wheat,7.21,34.62,7.12,Potassium Chloride
+19.16,46.6,32.76,Sandy,Soybean,30.68,12.8,14.67,Urea
+25.72,59.81,36.8,Clayey,Soybean,33.13,10.49,13.75,Urea
+26.56,52.66,41.23,Black,Wheat,41.47,9.04,22.57,Urea
+23.25,41.3,57.99,Black,Soybean,49.26,13.06,17.25,Urea
+18.58,60.4,64.39,Black,Pulses,41.61,10.62,23.01,Urea
+29.98,66.7,40.56,Red,Wheat,15.16,8.24,45.93,DAP
+29.81,44.51,55.65,Sandy,Barley,30.53,13.11,15.65,Urea
+18.01,59.91,65.17,Loamy,Groundnut,15.66,19.03,18.67,NPK 20-20-20
+28.09,89.53,53.42,Loamy,Cotton,3.9,41.03,7.85,Potassium Chloride
+25.04,44.37,46.97,Black,Wheat,38.84,9.49,14.96,Urea
+24.24,46.99,21.46,Loamy,Rice,36.38,13.86,19.39,Urea
+25.96,59.31,27.85,Red,Cotton,22.74,15.13,15.52,NPK 20-20-20
+27.12,58.81,45.65,Loamy,Rice,14.12,33.0,21.9,NPK 10-26-26
+18.75,54.68,33.27,Loamy,Pulses,43.18,13.49,20.38,Urea
+26.99,58.84,24.91,Black,Wheat,40.07,5.39,20.36,Urea
+22.32,71.51,28.49,Red,Rice,7.58,34.57,6.88,Potassium Chloride
+24.27,62.12,44.01,Loamy,Sugarcane,6.12,46.73,3.36,Potassium Chloride
+33.36,67.31,53.84,Clayey,Tobacco,21.64,5.5,49.48,DAP
+28.06,60.69,26.8,Clayey,Soybean,7.5,9.16,19.13,SSP (Single Super Phosphate)
+24.08,57.14,33.51,Black,Wheat,21.04,24.99,23.71,NPK 20-20-20
+15.96,57.46,36.14,Black,Wheat,38.61,9.92,13.01,Urea
+25.99,56.27,55.42,Black,Barley,34.27,13.41,17.59,Urea
+31.22,54.52,33.03,Clayey,Barley,24.83,12.74,46.8,DAP
+16.42,49.75,35.83,Black,Tobacco,18.61,3.94,6.56,Ammonium Sulphate
+27.23,51.2,72.45,Loamy,Soybean,20.6,18.49,17.79,NPK 20-20-20
+10.38,49.28,73.56,Clayey,Cotton,21.29,4.84,5.82,Ammonium Sulphate
+24.36,56.19,46.32,Sandy,Pulses,39.04,14.0,20.71,Urea
+23.01,64.28,29.0,Clayey,Sugarcane,5.34,8.16,15.53,SSP (Single Super Phosphate)
+31.67,65.8,48.67,Loamy,Sugarcane,10.18,20.99,27.88,NPK 10-26-26
+32.82,73.76,55.62,Loamy,Groundnut,3.75,43.58,5.33,Potassium Chloride
+21.13,63.16,20.73,Black,Maize,40.05,9.86,18.1,Urea
+26.15,69.43,20.93,Loamy,Groundnut,19.05,5.13,42.27,DAP
+24.12,59.1,53.29,Black,Rice,48.06,14.8,19.26,Urea
+21.89,68.97,25.45,Loamy,Cotton,6.52,7.8,18.42,SSP (Single Super Phosphate)
+31.73,89.77,43.81,Loamy,Barley,3.39,47.68,3.14,Potassium Chloride
+24.41,57.41,37.57,Black,Wheat,15.93,23.88,19.68,NPK 20-20-20
+30.01,68.77,45.25,Loamy,Groundnut,3.43,46.99,5.22,Potassium Chloride
+27.25,80.35,65.84,Clayey,Wheat,7.05,44.93,5.06,Potassium Chloride
+25.15,73.1,64.43,Clayey,Wheat,4.5,42.65,7.95,Potassium Chloride
+20.2,82.29,36.18,Loamy,Pulses,10.84,21.61,28.94,NPK 10-26-26
+23.06,74.15,36.57,Loamy,Tobacco,23.67,19.05,24.53,NPK 20-20-20
+24.03,68.85,48.91,Sandy,Cotton,15.21,10.18,39.04,DAP
+19.73,60.64,46.26,Clayey,Wheat,47.84,12.87,24.33,Urea
+27.79,79.02,27.6,Loamy,Maize,6.07,49.81,4.56,Potassium Chloride
+15.33,59.91,77.8,Clayey,Tobacco,38.22,14.0,15.21,Urea
+13.78,36.11,40.42,Red,Sugarcane,24.6,5.94,10.73,Ammonium Sulphate
+19.86,42.61,57.99,Sandy,Soybean,48.89,9.06,12.12,Urea
+30.75,77.88,37.67,Loamy,Soybean,5.15,32.76,5.44,Potassium Chloride
+31.64,80.95,56.05,Sandy,Cotton,8.7,34.49,31.5,NPK 10-26-26
+24.54,62.83,29.6,Loamy,Tobacco,41.3,13.73,20.33,Urea
+31.86,76.83,38.01,Loamy,Groundnut,4.58,35.06,6.52,Potassium Chloride
+22.26,63.15,27.68,Red,Wheat,7.8,10.68,13.3,SSP (Single Super Phosphate)
+25.96,68.15,30.87,Black,Wheat,46.61,6.24,24.48,Urea
+20.59,51.84,70.65,Black,Groundnut,33.82,9.85,14.03,Urea
+22.43,62.73,22.95,Clayey,Soybean,3.44,46.26,7.31,Potassium Chloride
+29.49,86.22,63.26,Loamy,Pulses,7.93,46.53,5.61,Potassium Chloride
+26.55,70.0,25.66,Black,Wheat,17.01,12.36,42.71,DAP
+31.84,63.35,43.73,Loamy,Sugarcane,11.47,27.38,20.12,NPK 10-26-26
+18.73,37.46,59.67,Black,Tobacco,23.5,7.19,11.17,Ammonium Sulphate
+24.9,72.21,79.28,Red,Barley,3.77,40.81,7.11,Potassium Chloride
+23.98,44.68,29.36,Black,Groundnut,37.49,12.32,24.26,Urea
+12.58,38.36,29.53,Black,Wheat,22.53,5.46,8.52,Ammonium Sulphate
+25.31,71.16,25.88,Clayey,Cotton,15.12,15.45,23.8,NPK 20-20-20
+21.67,54.51,71.0,Clayey,Tobacco,18.58,23.07,17.75,NPK 20-20-20
+20.82,32.64,70.78,Red,Cotton,18.56,7.71,7.93,Ammonium Sulphate
+17.22,43.99,61.23,Black,Rice,40.63,5.62,20.81,Urea
+16.38,43.72,51.06,Clayey,Tobacco,22.35,6.84,7.77,Ammonium Sulphate
+21.19,55.48,77.82,Clayey,Sugarcane,13.96,27.72,28.39,NPK 10-26-26
+24.06,87.68,20.16,Loamy,Cotton,3.7,38.23,4.95,Potassium Chloride
+25.69,62.9,40.23,Sandy,Soybean,22.73,23.22,16.69,NPK 20-20-20
+30.48,62.09,32.69,Clayey,Groundnut,9.01,20.25,21.4,NPK 10-26-26
+14.35,48.4,41.23,Loamy,Maize,23.69,5.75,7.1,Ammonium Sulphate
+13.17,45.06,21.2,Sandy,Cotton,21.8,3.45,10.38,Ammonium Sulphate
+23.14,81.15,41.61,Red,Sugarcane,7.22,36.58,7.22,Potassium Chloride
+34.38,60.75,42.61,Sandy,Groundnut,7.49,36.57,7.51,Potassium Chloride
+21.15,52.27,77.09,Black,Pulses,21.57,11.04,49.53,DAP
+21.54,53.33,32.26,Loamy,Rice,8.37,9.71,19.75,SSP (Single Super Phosphate)
+21.47,30.66,50.1,Loamy,Cotton,18.58,7.39,7.05,Ammonium Sulphate
+11.85,44.59,57.51,Red,Groundnut,19.41,5.2,5.75,Ammonium Sulphate
+15.27,66.16,75.93,Red,Cotton,41.72,11.11,17.59,Urea
+24.43,74.91,27.09,Black,Groundnut,14.47,24.34,23.46,NPK 10-26-26
+11.24,49.25,48.32,Loamy,Barley,18.73,3.76,10.86,Ammonium Sulphate
+30.11,70.03,78.89,Black,Groundnut,13.96,34.62,22.35,NPK 10-26-26
+15.18,69.1,22.59,Clayey,Barley,47.37,14.63,13.35,Urea
+30.6,83.45,49.21,Loamy,Wheat,12.8,30.37,34.73,NPK 10-26-26
+13.15,53.28,49.18,Black,Wheat,23.3,4.82,9.27,Ammonium Sulphate
+24.1,44.18,73.9,Clayey,Cotton,41.5,8.14,17.19,Urea
+20.94,62.75,61.76,Black,Maize,48.56,6.74,24.92,Urea
+25.98,72.64,78.71,Loamy,Tobacco,17.16,24.13,20.91,NPK 20-20-20
+22.67,65.44,68.5,Clayey,Pulses,23.05,13.08,35.69,DAP
+25.79,82.95,65.84,Sandy,Barley,7.95,38.36,4.07,Potassium Chloride
+10.53,44.94,53.25,Loamy,Maize,24.16,5.06,8.04,Ammonium Sulphate
+20.74,50.87,48.12,Sandy,Soybean,9.19,8.43,13.93,SSP (Single Super Phosphate)
+29.13,63.48,21.39,Red,Pulses,4.07,33.95,5.16,Potassium Chloride
+26.49,82.59,45.47,Black,Cotton,6.54,34.73,7.48,Potassium Chloride
+22.21,44.81,32.32,Loamy,Groundnut,18.31,6.87,9.58,Ammonium Sulphate
+16.11,50.75,26.95,Sandy,Groundnut,44.14,12.71,20.94,Urea
+34.98,59.8,64.89,Clayey,Tobacco,20.77,5.95,36.01,DAP
+22.88,55.97,40.15,Black,Barley,8.1,20.43,33.44,NPK 10-26-26
+16.39,57.65,48.86,Black,Groundnut,42.39,12.94,15.33,Urea
+24.82,51.23,67.94,Loamy,Tobacco,20.3,17.97,19.01,NPK 20-20-20
+28.4,73.42,62.51,Black,Cotton,24.49,6.3,44.48,DAP
+22.65,73.3,75.9,Red,Wheat,22.67,18.22,17.06,NPK 20-20-20
+26.31,68.0,41.04,Clayey,Maize,21.22,16.87,15.39,NPK 20-20-20
+28.91,61.24,52.99,Clayey,Rice,6.03,6.02,18.73,SSP (Single Super Phosphate)
+15.07,54.29,61.74,Sandy,Pulses,24.6,4.04,10.29,Ammonium Sulphate
+28.89,60.65,23.12,Clayey,Groundnut,17.77,10.83,48.82,DAP
+20.86,73.67,37.5,Clayey,Cotton,10.34,9.42,13.35,SSP (Single Super Phosphate)
+13.58,55.07,67.04,Red,Sugarcane,22.26,5.27,5.73,Ammonium Sulphate
+25.45,47.39,22.91,Red,Tobacco,23.17,18.27,19.09,NPK 20-20-20
+27.98,53.1,30.35,Black,Groundnut,22.39,11.59,35.49,DAP
+31.8,69.82,72.16,Black,Barley,8.98,34.59,30.74,NPK 10-26-26
+26.52,62.17,67.42,Clayey,Pulses,10.25,5.63,12.59,SSP (Single Super Phosphate)
+25.4,47.6,60.15,Sandy,Wheat,20.69,24.42,23.82,NPK 20-20-20
+30.79,59.01,43.2,Red,Rice,12.35,26.67,23.3,NPK 10-26-26
+26.17,53.79,21.67,Loamy,Pulses,24.97,10.94,37.75,DAP
+10.63,48.72,53.75,Red,Maize,22.93,4.19,10.62,Ammonium Sulphate
+27.63,77.98,24.75,Sandy,Sugarcane,11.65,34.42,21.87,NPK 10-26-26
+10.65,47.22,71.21,Loamy,Cotton,21.12,7.34,10.0,Ammonium Sulphate
+22.78,70.8,25.73,Black,Tobacco,7.1,10.6,14.31,SSP (Single Super Phosphate)
+19.09,40.11,55.13,Red,Barley,18.06,3.88,10.66,Ammonium Sulphate
+21.54,56.43,44.71,Loamy,Barley,24.41,20.67,24.06,NPK 20-20-20
+20.18,50.27,41.42,Red,Tobacco,20.65,9.99,46.57,DAP
+30.04,80.87,38.96,Loamy,Soybean,10.71,30.87,24.32,NPK 10-26-26
+24.39,55.85,44.71,Black,Tobacco,11.87,11.28,18.27,SSP (Single Super Phosphate)
+21.15,61.48,42.06,Clayey,Barley,16.32,10.75,47.86,DAP
+27.93,68.51,75.32,Red,Soybean,16.88,15.81,15.56,NPK 20-20-20
+24.39,58.11,62.14,Black,Rice,8.29,33.88,23.1,NPK 10-26-26
+29.02,72.65,32.76,Loamy,Rice,11.77,31.52,23.83,NPK 10-26-26
+21.03,65.94,67.42,Black,Sugarcane,19.94,15.14,16.18,NPK 20-20-20
+27.46,50.91,72.52,Red,Wheat,16.68,24.85,22.6,NPK 20-20-20
+32.9,76.67,61.4,Red,Tobacco,5.85,32.21,6.78,Potassium Chloride
+28.01,68.38,33.86,Clayey,Pulses,5.55,47.52,5.65,Potassium Chloride
+33.11,80.58,21.07,Loamy,Rice,4.88,44.19,3.71,Potassium Chloride
+29.22,69.77,32.04,Sandy,Sugarcane,5.88,10.76,13.08,SSP (Single Super Phosphate)
+28.59,89.88,30.72,Red,Wheat,6.06,37.93,3.5,Potassium Chloride
+21.72,51.63,46.62,Sandy,Barley,5.37,11.45,14.35,SSP (Single Super Phosphate)
+23.15,57.37,35.96,Loamy,Rice,22.05,5.67,7.63,Ammonium Sulphate
+18.99,51.96,62.53,Red,Tobacco,20.45,24.03,21.61,NPK 20-20-20
+23.23,56.03,41.36,Loamy,Wheat,36.9,5.32,15.21,Urea
+24.71,44.82,20.58,Sandy,Pulses,18.7,7.16,6.91,Ammonium Sulphate
+30.04,70.36,51.62,Black,Cotton,8.37,20.82,29.39,NPK 10-26-26
+19.44,53.79,27.96,Loamy,Rice,18.12,3.37,10.14,Ammonium Sulphate
+20.54,68.14,70.64,Loamy,Wheat,8.37,21.77,32.51,NPK 10-26-26
+25.97,74.87,50.1,Loamy,Soybean,3.64,41.44,7.74,Potassium Chloride
+16.26,61.03,24.37,Loamy,Tobacco,45.23,6.01,19.27,Urea
+28.88,45.42,54.08,Loamy,Soybean,48.88,12.06,10.59,Urea
+11.37,51.56,32.82,Black,Maize,21.75,5.2,8.14,Ammonium Sulphate
+21.65,57.97,57.39,Clayey,Tobacco,19.98,16.83,16.55,NPK 20-20-20
+23.19,82.5,30.54,Sandy,Pulses,3.93,34.97,7.47,Potassium Chloride
+21.14,71.32,64.43,Black,Rice,14.07,33.8,33.41,NPK 10-26-26
+16.04,30.7,39.76,Black,Maize,24.36,3.32,11.59,Ammonium Sulphate
+31.18,52.29,73.75,Sandy,Wheat,16.38,13.98,45.33,DAP
+22.62,58.21,26.47,Sandy,Groundnut,10.58,10.42,14.77,SSP (Single Super Phosphate)
+25.81,68.98,62.23,Loamy,Soybean,15.89,9.94,45.31,DAP
+32.27,57.58,36.29,Sandy,Barley,22.59,13.96,44.14,DAP
+26.4,64.44,40.32,Clayey,Barley,24.83,22.88,20.28,NPK 20-20-20
+20.87,67.1,47.2,Loamy,Tobacco,21.36,19.3,16.65,NPK 20-20-20
+30.19,71.24,68.23,Black,Wheat,13.43,29.1,29.33,NPK 10-26-26
+28.46,58.11,55.59,Loamy,Rice,10.89,5.86,18.91,SSP (Single Super Phosphate)
+21.97,75.64,29.92,Black,Maize,24.32,7.79,46.12,DAP
+27.71,82.38,32.29,Black,Sugarcane,7.64,45.08,5.64,Potassium Chloride
+33.85,88.48,69.55,Black,Maize,4.21,49.32,4.62,Potassium Chloride
+10.3,47.1,40.07,Black,Tobacco,18.51,6.55,7.65,Ammonium Sulphate
+28.09,68.51,64.94,Red,Barley,10.77,26.03,20.77,NPK 10-26-26
+26.76,54.43,22.45,Red,Tobacco,43.22,10.97,18.3,Urea
+22.49,52.28,70.79,Sandy,Sugarcane,22.46,6.59,8.54,Ammonium Sulphate
+27.34,50.81,27.62,Sandy,Groundnut,41.82,5.37,10.46,Urea
+23.2,58.59,33.82,Red,Groundnut,14.22,22.6,22.41,NPK 10-26-26
+29.52,61.33,31.97,Red,Wheat,39.53,7.05,22.58,Urea
+24.9,60.12,30.21,Sandy,Cotton,7.12,6.9,19.89,SSP (Single Super Phosphate)
+10.47,35.11,57.98,Sandy,Sugarcane,24.57,5.98,8.74,Ammonium Sulphate
+24.1,52.68,44.42,Loamy,Barley,24.48,19.56,15.69,NPK 20-20-20
+28.69,83.95,77.87,Loamy,Maize,6.53,49.12,7.47,Potassium Chloride
+24.76,66.34,28.75,Loamy,Soybean,9.55,6.27,12.67,SSP (Single Super Phosphate)
+26.47,58.24,21.08,Clayey,Sugarcane,23.74,20.88,18.29,NPK 20-20-20
+17.38,30.59,60.28,Red,Pulses,19.61,4.05,7.29,Ammonium Sulphate
+10.07,49.36,45.04,Loamy,Pulses,22.99,3.23,5.03,Ammonium Sulphate
+27.1,62.82,75.84,Black,Rice,9.69,7.87,14.15,SSP (Single Super Phosphate)
+25.99,59.8,20.65,Black,Sugarcane,20.67,13.98,44.86,DAP
+27.17,54.36,62.61,Red,Rice,16.13,7.42,47.63,DAP
+23.72,32.7,66.23,Sandy,Maize,24.49,6.3,8.21,Ammonium Sulphate
+20.5,62.33,63.26,Sandy,Maize,30.36,6.79,17.41,Urea
+21.96,34.62,57.51,Red,Sugarcane,23.3,3.28,6.56,Ammonium Sulphate
+13.6,33.02,35.61,Loamy,Groundnut,21.52,3.03,5.1,Ammonium Sulphate
+22.56,57.43,66.11,Sandy,Wheat,6.45,6.51,19.41,SSP (Single Super Phosphate)
+24.99,66.33,23.12,Black,Barley,22.3,21.29,19.11,NPK 20-20-20
+20.95,43.98,54.05,Loamy,Rice,37.01,5.79,10.5,Urea
+18.6,30.71,43.81,Sandy,Barley,21.48,3.55,5.05,Ammonium Sulphate
+21.22,43.23,64.02,Sandy,Barley,22.94,6.97,10.22,Ammonium Sulphate
+17.04,51.61,51.77,Red,Tobacco,22.89,3.95,9.37,Ammonium Sulphate
+23.59,57.03,78.59,Red,Barley,23.92,4.77,7.08,Ammonium Sulphate
+20.01,51.46,37.51,Black,Cotton,19.83,24.78,19.16,NPK 20-20-20
+34.77,78.17,47.17,Red,Pulses,15.89,10.41,49.88,DAP
+19.1,73.42,45.4,Sandy,Soybean,23.95,23.59,24.72,NPK 20-20-20
+20.99,71.01,64.8,Red,Cotton,15.29,18.96,21.05,NPK 20-20-20
+21.36,61.82,25.7,Red,Rice,19.52,24.44,23.57,NPK 20-20-20
+31.96,59.06,60.53,Red,Groundnut,11.84,27.79,26.04,NPK 10-26-26
+24.21,79.98,49.6,Red,Sugarcane,9.77,28.61,33.43,NPK 10-26-26
+29.24,84.26,54.41,Loamy,Barley,13.1,30.97,29.0,NPK 10-26-26
+20.64,51.83,47.57,Clayey,Tobacco,36.49,9.76,21.06,Urea
+26.87,82.97,71.49,Loamy,Maize,14.79,27.6,26.81,NPK 10-26-26
+22.36,60.96,21.01,Black,Soybean,10.21,9.7,13.12,SSP (Single Super Phosphate)
+33.11,67.58,39.63,Red,Rice,3.32,43.12,3.97,Potassium Chloride
+10.39,37.83,52.28,Clayey,Soybean,19.74,3.35,9.13,Ammonium Sulphate
+22.4,73.01,54.17,Clayey,Groundnut,6.28,34.19,6.21,Potassium Chloride
+17.44,53.14,20.13,Black,Barley,24.64,8.0,6.57,Ammonium Sulphate
+24.8,72.59,31.29,Clayey,Soybean,4.76,43.68,4.57,Potassium Chloride
+26.74,62.13,20.54,Red,Rice,23.06,24.21,15.58,NPK 20-20-20
+13.0,36.96,67.88,Clayey,Maize,18.22,4.37,5.53,Ammonium Sulphate
+20.82,61.65,63.82,Loamy,Tobacco,22.15,18.31,15.69,NPK 20-20-20
+23.06,67.6,40.78,Loamy,Rice,30.09,8.98,15.0,Urea
+22.57,69.16,61.75,Sandy,Maize,7.46,34.32,7.57,Potassium Chloride
+25.91,68.1,68.1,Black,Sugarcane,18.23,8.26,49.82,DAP
+23.8,43.22,79.67,Clayey,Maize,21.68,3.72,8.48,Ammonium Sulphate
+20.31,33.35,28.86,Loamy,Rice,20.54,7.36,8.72,Ammonium Sulphate
+24.79,47.22,79.57,Sandy,Sugarcane,23.62,24.95,19.77,NPK 20-20-20
+22.56,56.93,39.48,Red,Cotton,16.01,21.53,24.62,NPK 20-20-20
+24.25,66.87,75.91,Clayey,Rice,16.64,16.41,18.81,NPK 20-20-20
+17.09,50.16,56.43,Sandy,Cotton,24.13,6.15,11.08,Ammonium Sulphate
+22.12,33.74,78.24,Sandy,Maize,21.14,4.69,7.42,Ammonium Sulphate
+22.73,77.74,71.5,Red,Tobacco,5.92,49.39,5.1,Potassium Chloride
+21.03,58.78,69.08,Sandy,Cotton,20.71,18.79,22.45,NPK 20-20-20
+33.05,85.35,75.45,Loamy,Cotton,3.24,48.84,3.31,Potassium Chloride
+25.17,63.64,56.24,Loamy,Soybean,9.01,29.34,34.99,NPK 10-26-26
+20.78,79.66,58.78,Sandy,Maize,13.85,34.63,34.62,NPK 10-26-26
+31.44,57.18,31.95,Sandy,Soybean,11.22,22.01,23.26,NPK 10-26-26
+25.57,68.56,57.98,Clayey,Maize,20.69,8.79,48.03,DAP
+16.03,41.71,36.93,Red,Soybean,45.03,14.57,19.85,Urea
+20.95,58.66,71.74,Clayey,Cotton,36.97,12.84,17.71,Urea
+33.56,79.96,57.0,Red,Barley,5.69,30.99,7.25,Potassium Chloride
+34.09,69.09,39.47,Clayey,Sugarcane,17.72,7.64,45.39,DAP
+30.78,75.88,30.76,Black,Maize,24.67,10.05,35.78,DAP
+28.02,61.82,64.56,Red,Sugarcane,30.61,9.63,13.87,Urea
+25.59,59.36,22.68,Clayey,Groundnut,19.08,22.82,18.25,NPK 20-20-20
+27.1,66.95,41.2,Black,Groundnut,9.02,6.84,12.22,SSP (Single Super Phosphate)
+29.13,73.59,72.67,Sandy,Sugarcane,7.24,33.92,4.55,Potassium Chloride
+16.84,40.33,61.62,Black,Barley,20.54,5.5,7.01,Ammonium Sulphate
+27.06,64.48,57.62,Black,Pulses,9.93,21.83,27.42,NPK 10-26-26
+23.75,68.87,42.49,Sandy,Pulses,32.35,12.46,19.74,Urea
+21.84,40.76,27.1,Black,Tobacco,24.41,3.78,5.35,Ammonium Sulphate
+18.36,48.06,63.71,Sandy,Tobacco,23.7,17.48,22.64,NPK 20-20-20
+24.25,53.39,44.95,Loamy,Rice,6.75,5.95,13.65,SSP (Single Super Phosphate)
+24.11,70.96,78.86,Black,Soybean,9.4,8.86,18.86,SSP (Single Super Phosphate)
+17.49,58.4,41.79,Black,Rice,40.4,10.58,16.71,Urea
+24.42,45.83,24.26,Red,Maize,42.23,5.05,11.22,Urea
+23.85,76.7,39.16,Sandy,Tobacco,4.15,41.22,5.35,Potassium Chloride
+28.71,58.64,38.17,Black,Wheat,11.69,20.79,23.88,NPK 10-26-26
+20.9,57.16,78.34,Loamy,Tobacco,11.03,5.18,13.31,SSP (Single Super Phosphate)
+21.88,55.3,40.41,Clayey,Maize,11.68,10.65,19.92,SSP (Single Super Phosphate)
+23.16,54.15,61.27,Black,Cotton,15.9,18.56,19.34,NPK 20-20-20
+34.46,73.26,58.67,Black,Sugarcane,3.59,49.17,7.25,Potassium Chloride
+23.79,58.76,59.33,Sandy,Sugarcane,12.64,24.02,30.73,NPK 10-26-26
+27.97,63.06,26.79,Sandy,Cotton,30.35,13.31,13.66,Urea
+24.42,53.94,27.59,Sandy,Soybean,20.31,24.54,19.0,NPK 20-20-20
+33.88,68.95,23.26,Black,Pulses,18.62,6.1,47.95,DAP
+26.57,59.94,23.83,Black,Maize,10.93,22.58,21.7,NPK 10-26-26
+23.22,82.37,57.99,Sandy,Barley,13.16,21.01,23.79,NPK 10-26-26
+24.82,67.44,23.13,Loamy,Sugarcane,9.36,11.2,12.45,SSP (Single Super Phosphate)
+21.87,71.62,43.43,Clayey,Barley,5.92,11.89,19.75,SSP (Single Super Phosphate)
+29.88,57.56,71.97,Black,Tobacco,9.86,23.78,32.1,NPK 10-26-26
+33.67,50.89,41.36,Clayey,Rice,21.54,5.5,47.28,DAP
+22.41,46.95,69.52,Red,Sugarcane,16.31,17.06,21.96,NPK 20-20-20
+31.01,75.19,79.44,Loamy,Maize,8.81,20.56,25.83,NPK 10-26-26
+23.7,79.2,66.33,Sandy,Rice,7.19,43.29,6.66,Potassium Chloride
+31.3,63.95,66.53,Clayey,Cotton,12.42,23.73,24.06,NPK 10-26-26
+20.6,48.12,58.64,Red,Wheat,33.64,14.46,22.93,Urea
+26.64,69.48,76.18,Red,Rice,17.48,9.28,45.58,DAP
+22.43,51.0,79.13,Clayey,Sugarcane,10.39,10.41,19.75,SSP (Single Super Phosphate)
+27.41,54.88,22.53,Red,Sugarcane,19.55,22.07,19.71,NPK 20-20-20
+28.71,66.01,28.83,Black,Barley,14.76,29.48,26.42,NPK 10-26-26
+27.27,57.73,42.48,Sandy,Sugarcane,11.37,5.09,19.51,SSP (Single Super Phosphate)
+25.84,64.63,63.11,Black,Groundnut,30.11,9.91,24.63,Urea
+26.18,78.24,53.73,Clayey,Soybean,13.05,33.22,34.12,NPK 10-26-26
+34.26,81.69,61.37,Sandy,Rice,6.38,41.47,4.25,Potassium Chloride
+23.78,71.47,33.25,Black,Maize,10.9,5.44,13.44,SSP (Single Super Phosphate)
+23.62,60.65,38.22,Red,Pulses,11.17,30.15,34.19,NPK 10-26-26
+31.0,69.76,75.89,Red,Maize,20.47,8.44,48.54,DAP
+10.15,38.24,26.56,Black,Rice,21.24,4.28,7.89,Ammonium Sulphate
+12.05,40.23,31.26,Loamy,Maize,22.9,5.56,8.26,Ammonium Sulphate
+26.41,56.84,66.26,Black,Pulses,39.44,12.13,11.79,Urea
+22.36,59.29,37.4,Black,Pulses,18.97,13.65,36.98,DAP
+20.03,45.21,62.72,Loamy,Wheat,37.16,13.28,17.41,Urea
+20.14,48.17,60.98,Black,Wheat,19.86,16.42,18.14,NPK 20-20-20
+18.66,51.07,58.05,Sandy,Groundnut,18.15,4.96,8.64,Ammonium Sulphate
+25.56,70.62,50.27,Black,Cotton,6.3,8.56,12.04,SSP (Single Super Phosphate)
+21.57,78.92,50.48,Black,Rice,12.1,34.01,23.85,NPK 10-26-26
+28.07,84.36,29.36,Red,Sugarcane,4.62,43.24,4.71,Potassium Chloride
+22.34,63.56,33.33,Sandy,Barley,5.63,9.31,17.16,SSP (Single Super Phosphate)
+27.17,74.94,45.16,Sandy,Pulses,12.08,22.28,33.27,NPK 10-26-26
+27.21,56.87,63.27,Black,Barley,8.66,27.49,20.49,NPK 10-26-26
+21.39,53.54,29.82,Clayey,Cotton,38.92,14.97,14.1,Urea
+23.03,54.48,63.75,Loamy,Soybean,15.55,19.82,18.55,NPK 20-20-20
+21.39,62.68,59.9,Clayey,Tobacco,6.85,7.89,14.25,SSP (Single Super Phosphate)
+20.01,63.55,62.46,Red,Maize,39.97,5.59,11.16,Urea
+20.08,78.11,69.32,Sandy,Wheat,18.42,5.69,44.49,DAP
+20.02,52.44,26.09,Sandy,Sugarcane,8.78,5.06,16.14,SSP (Single Super Phosphate)
+22.57,61.49,73.27,Clayey,Barley,21.47,15.54,15.45,NPK 20-20-20
+23.74,66.42,36.46,Loamy,Cotton,22.68,9.34,42.51,DAP
+17.11,53.99,54.84,Black,Rice,21.59,7.3,7.31,Ammonium Sulphate
+20.65,66.34,26.0,Black,Soybean,19.62,23.98,23.45,NPK 20-20-20
+26.42,84.89,48.47,Clayey,Barley,12.46,25.42,21.06,NPK 10-26-26
+26.65,70.99,41.62,Red,Sugarcane,5.23,7.19,15.7,SSP (Single Super Phosphate)
+27.52,59.38,69.38,Black,Maize,13.04,25.63,20.42,NPK 10-26-26
+16.72,43.4,47.46,Sandy,Pulses,24.93,6.31,5.53,Ammonium Sulphate
+20.65,58.52,34.68,Clayey,Soybean,24.73,6.01,7.91,Ammonium Sulphate
+23.11,69.46,52.59,Black,Wheat,7.49,5.83,19.2,SSP (Single Super Phosphate)
+29.25,52.59,52.58,Sandy,Tobacco,9.89,6.27,14.97,SSP (Single Super Phosphate)
+34.22,59.14,35.87,Loamy,Pulses,15.77,13.3,38.52,DAP
+22.68,46.79,58.71,Red,Pulses,41.82,5.17,20.16,Urea
+25.96,72.87,47.3,Sandy,Groundnut,22.25,5.42,48.16,DAP
+17.84,33.44,44.05,Sandy,Soybean,23.37,7.5,6.45,Ammonium Sulphate
+20.0,37.02,55.29,Sandy,Barley,20.45,6.78,10.19,Ammonium Sulphate
+30.17,65.18,35.52,Red,Maize,4.53,36.54,4.09,Potassium Chloride
+29.05,60.73,58.87,Sandy,Soybean,17.26,14.79,44.61,DAP
+31.65,68.34,71.44,Black,Maize,21.79,14.51,46.59,DAP
+26.1,59.85,47.24,Sandy,Groundnut,23.38,13.6,40.42,DAP
+22.81,58.71,25.35,Sandy,Sugarcane,48.54,13.42,18.1,Urea
+18.52,51.93,68.11,Black,Pulses,15.38,17.63,21.43,NPK 20-20-20
+18.33,33.0,68.3,Sandy,Groundnut,20.45,4.84,9.96,Ammonium Sulphate
+22.31,82.93,54.85,Sandy,Soybean,7.38,40.96,3.95,Potassium Chloride
+24.43,65.78,72.26,Clayey,Groundnut,20.0,17.77,18.58,NPK 20-20-20
+25.08,63.81,62.74,Loamy,Cotton,8.98,11.85,15.19,SSP (Single Super Phosphate)
+23.93,54.15,44.71,Sandy,Sugarcane,35.09,12.6,20.22,Urea
+18.46,55.67,32.77,Sandy,Soybean,20.57,24.74,23.94,NPK 20-20-20
+21.05,74.21,59.8,Red,Maize,22.42,20.0,22.7,NPK 20-20-20
+19.41,63.26,30.76,Sandy,Soybean,21.49,15.34,16.64,NPK 20-20-20
+33.36,69.22,76.32,Sandy,Barley,3.19,30.09,7.89,Potassium Chloride
+20.3,53.29,38.68,Sandy,Wheat,19.64,6.24,9.05,Ammonium Sulphate
+30.69,68.81,62.58,Red,Maize,14.92,22.69,27.28,NPK 10-26-26
+24.84,70.35,77.23,Red,Barley,9.09,7.21,17.9,SSP (Single Super Phosphate)
+24.62,58.95,57.84,Clayey,Pulses,22.04,19.09,24.46,NPK 20-20-20
+27.48,55.22,20.38,Clayey,Wheat,44.87,13.18,12.41,Urea
+24.19,69.09,45.91,Loamy,Cotton,23.64,22.44,19.65,NPK 20-20-20
+26.89,74.51,77.94,Loamy,Groundnut,11.63,5.07,14.95,SSP (Single Super Phosphate)
+26.4,61.71,71.48,Sandy,Groundnut,9.27,6.91,13.53,SSP (Single Super Phosphate)
+20.59,72.98,40.5,Red,Sugarcane,9.8,20.22,30.52,NPK 10-26-26
+28.75,56.41,75.68,Black,Rice,9.16,30.36,20.89,NPK 10-26-26
+24.02,72.13,74.58,Sandy,Rice,10.12,34.17,34.5,NPK 10-26-26
+20.18,47.12,76.74,Red,Groundnut,18.65,7.8,10.17,Ammonium Sulphate
+10.18,37.48,63.13,Clayey,Tobacco,22.02,4.82,7.79,Ammonium Sulphate
+27.05,84.62,47.07,Sandy,Wheat,4.39,39.42,5.38,Potassium Chloride
+22.37,42.06,26.14,Loamy,Wheat,22.35,5.48,11.24,Ammonium Sulphate
+31.63,57.03,40.71,Sandy,Sugarcane,15.19,10.25,47.4,DAP
+23.76,53.61,55.07,Sandy,Tobacco,19.54,14.35,41.18,DAP
+16.61,44.37,73.82,Loamy,Tobacco,24.73,3.56,8.5,Ammonium Sulphate
+21.17,46.07,28.2,Clayey,Pulses,19.9,19.2,16.1,NPK 20-20-20
+26.62,65.7,46.84,Loamy,Cotton,8.25,28.16,24.85,NPK 10-26-26
+34.37,56.61,73.17,Red,Maize,17.31,12.31,42.54,DAP
+22.03,80.62,20.79,Red,Wheat,14.69,32.89,23.7,NPK 10-26-26
+30.35,60.92,63.43,Sandy,Cotton,5.77,49.54,6.0,Potassium Chloride
+20.6,57.94,79.47,Sandy,Cotton,9.91,11.12,12.98,SSP (Single Super Phosphate)
+31.83,62.94,46.81,Loamy,Pulses,4.41,32.37,7.06,Potassium Chloride
+20.51,51.8,76.56,Red,Maize,24.3,6.41,10.77,Ammonium Sulphate
+28.21,70.1,65.91,Sandy,Pulses,11.22,21.08,27.48,NPK 10-26-26
+24.79,47.15,25.97,Black,Cotton,32.08,6.79,22.0,Urea
+31.25,65.56,46.77,Clayey,Groundnut,11.51,22.06,28.59,NPK 10-26-26
+27.58,66.27,30.67,Red,Tobacco,9.06,7.79,13.9,SSP (Single Super Phosphate)
+19.2,51.92,41.04,Clayey,Groundnut,15.2,21.95,16.35,NPK 20-20-20
+23.84,81.04,72.88,Red,Soybean,9.0,34.28,25.84,NPK 10-26-26
+15.51,64.92,40.71,Sandy,Rice,36.72,8.63,22.38,Urea
+27.96,80.17,53.04,Red,Cotton,8.27,23.64,34.66,NPK 10-26-26
+23.92,70.09,73.18,Red,Tobacco,6.2,7.49,15.46,SSP (Single Super Phosphate)
+21.92,75.74,30.05,Clayey,Wheat,10.64,28.17,25.9,NPK 10-26-26
+33.79,55.28,32.84,Loamy,Tobacco,20.23,9.59,38.29,DAP
+22.42,69.39,28.7,Loamy,Sugarcane,46.56,11.24,21.82,Urea
+25.36,58.7,32.36,Red,Groundnut,11.68,23.78,30.61,NPK 10-26-26
+24.19,54.3,25.15,Red,Pulses,21.48,21.54,15.18,NPK 20-20-20
+24.61,84.16,29.55,Red,Groundnut,11.45,27.52,20.06,NPK 10-26-26
+21.86,57.61,53.73,Red,Wheat,18.56,20.6,21.97,NPK 20-20-20
+24.88,44.89,24.23,Loamy,Wheat,42.52,13.56,17.55,Urea
+14.91,53.43,70.43,Red,Soybean,19.31,6.01,8.14,Ammonium Sulphate
+26.22,76.95,72.89,Red,Rice,5.0,32.51,3.06,Potassium Chloride
+21.38,61.48,64.9,Sandy,Maize,24.62,19.88,22.7,NPK 20-20-20
+18.9,59.93,35.78,Red,Tobacco,17.27,21.97,21.02,NPK 20-20-20
+31.79,66.49,30.67,Clayey,Tobacco,9.02,24.04,33.17,NPK 10-26-26
+19.5,37.46,38.25,Black,Tobacco,19.4,3.21,7.15,Ammonium Sulphate
+21.2,73.06,24.88,Sandy,Sugarcane,11.54,5.8,18.32,SSP (Single Super Phosphate)
+15.24,46.93,34.46,Red,Soybean,48.84,8.85,18.45,Urea
+26.41,70.43,66.29,Sandy,Soybean,22.87,24.14,18.13,NPK 20-20-20
+23.67,55.19,74.71,Sandy,Pulses,8.83,11.83,16.35,SSP (Single Super Phosphate)
+15.11,41.72,33.51,Red,Pulses,48.08,12.8,23.64,Urea
+28.16,74.04,22.0,Red,Wheat,6.51,39.09,6.58,Potassium Chloride
+22.83,62.74,50.65,Black,Sugarcane,9.21,6.47,13.28,SSP (Single Super Phosphate)
+30.44,61.48,69.31,Loamy,Wheat,20.07,5.77,37.82,DAP
+18.12,74.92,36.86,Black,Rice,16.18,17.09,24.9,NPK 20-20-20
+27.38,47.74,21.17,Black,Maize,19.8,22.22,19.91,NPK 20-20-20
+27.16,76.29,20.44,Red,Soybean,8.51,34.7,24.1,NPK 10-26-26
+21.02,58.68,52.3,Loamy,Wheat,9.08,11.02,16.42,SSP (Single Super Phosphate)
+24.17,74.5,37.07,Sandy,Groundnut,17.19,5.44,40.95,DAP
+23.32,58.73,72.06,Sandy,Barley,18.7,7.4,9.44,Ammonium Sulphate
+29.09,85.74,60.68,Clayey,Pulses,7.93,32.55,4.53,Potassium Chloride
+30.39,62.9,60.38,Sandy,Sugarcane,22.29,13.46,44.78,DAP
+29.87,41.85,72.97,Clayey,Maize,49.24,13.94,11.64,Urea
+21.22,57.18,71.81,Black,Groundnut,22.39,6.24,10.49,Ammonium Sulphate
+17.52,50.61,67.51,Red,Barley,21.33,3.38,11.53,Ammonium Sulphate
+29.9,78.63,37.0,Black,Tobacco,11.35,32.29,20.32,NPK 10-26-26
+24.43,66.32,64.1,Clayey,Pulses,35.64,11.97,11.77,Urea
+27.96,83.06,55.5,Black,Cotton,7.39,48.58,7.17,Potassium Chloride
+31.13,81.03,62.46,Black,Barley,9.81,22.0,26.96,NPK 10-26-26
+23.77,57.53,61.1,Black,Pulses,10.4,28.43,22.92,NPK 10-26-26
+23.54,54.43,47.55,Clayey,Barley,23.1,7.17,11.67,Ammonium Sulphate
+22.42,73.35,28.5,Sandy,Tobacco,21.74,21.95,16.15,NPK 20-20-20
+17.68,59.77,59.16,Loamy,Sugarcane,18.58,3.93,5.88,Ammonium Sulphate
+20.85,62.56,47.51,Clayey,Pulses,19.6,13.22,39.6,DAP
+25.32,49.62,71.34,Black,Rice,21.55,16.95,18.9,NPK 20-20-20
+26.55,61.12,37.51,Loamy,Pulses,12.44,31.24,22.8,NPK 10-26-26
+21.03,73.51,37.15,Sandy,Maize,18.34,9.05,45.99,DAP
+22.34,56.6,51.1,Loamy,Maize,20.56,14.07,35.44,DAP
+27.32,53.9,70.13,Clayey,Tobacco,18.95,6.47,39.7,DAP
+28.62,47.19,28.69,Red,Tobacco,40.05,7.79,10.77,Urea
+27.53,82.71,79.85,Black,Pulses,11.0,23.23,29.43,NPK 10-26-26
+23.29,48.9,45.19,Loamy,Pulses,46.97,12.09,12.05,Urea
+19.06,65.11,37.33,Red,Sugarcane,24.35,18.9,18.63,NPK 20-20-20
+22.92,64.87,21.65,Black,Sugarcane,9.94,8.68,16.35,SSP (Single Super Phosphate)
+27.97,68.58,70.13,Red,Soybean,14.3,30.06,34.11,NPK 10-26-26
+26.06,58.98,23.45,Clayey,Barley,6.09,9.78,12.84,SSP (Single Super Phosphate)
+22.32,78.34,64.19,Clayey,Groundnut,23.66,6.06,49.2,DAP
+24.43,70.5,37.55,Clayey,Pulses,16.12,20.77,15.76,NPK 20-20-20
+31.53,56.79,61.54,Sandy,Groundnut,20.75,7.76,41.44,DAP
+21.28,78.42,74.61,Red,Soybean,12.81,31.98,23.65,NPK 10-26-26
+24.1,62.29,72.36,Black,Cotton,11.66,9.15,18.74,SSP (Single Super Phosphate)
+19.76,73.81,61.59,Clayey,Wheat,23.7,16.27,16.39,NPK 20-20-20
+17.8,53.15,51.36,Black,Soybean,21.16,7.07,11.38,Ammonium Sulphate
+24.69,48.58,68.96,Sandy,Pulses,32.43,13.87,12.96,Urea
+10.23,42.79,56.37,Loamy,Cotton,24.14,5.26,11.07,Ammonium Sulphate
+26.04,64.77,43.88,Red,Soybean,23.78,21.74,20.86,NPK 20-20-20
+24.9,84.41,59.01,Sandy,Wheat,9.88,32.87,34.97,NPK 10-26-26
+29.55,73.97,70.25,Sandy,Barley,10.94,11.55,13.89,SSP (Single Super Phosphate)
+25.26,77.39,40.39,Clayey,Cotton,21.2,10.06,43.99,DAP
+15.14,64.56,27.71,Black,Soybean,41.2,8.77,11.74,Urea
+26.42,66.67,24.68,Sandy,Wheat,20.45,24.48,17.84,NPK 20-20-20
+27.77,84.07,62.84,Loamy,Cotton,13.36,32.36,29.87,NPK 10-26-26
+23.92,45.91,41.22,Loamy,Groundnut,24.4,5.85,8.29,Ammonium Sulphate
+24.09,68.33,60.54,Loamy,Wheat,8.27,32.04,25.88,NPK 10-26-26
+22.91,61.1,77.27,Loamy,Groundnut,9.65,25.99,24.65,NPK 10-26-26
+31.3,81.07,78.02,Red,Cotton,5.89,33.21,5.64,Potassium Chloride
+33.43,54.47,67.16,Black,Soybean,19.23,5.1,49.93,DAP
+24.97,63.61,77.39,Sandy,Sugarcane,7.44,11.26,15.2,SSP (Single Super Phosphate)
+22.78,61.09,41.82,Sandy,Tobacco,36.75,8.23,24.14,Urea
+29.31,44.05,49.03,Loamy,Cotton,42.21,8.97,24.24,Urea
+20.58,38.75,36.98,Clayey,Groundnut,22.9,3.83,8.52,Ammonium Sulphate
+19.72,42.65,28.81,Loamy,Sugarcane,21.5,4.09,5.99,Ammonium Sulphate
+20.69,56.44,52.63,Loamy,Soybean,8.17,5.23,16.05,SSP (Single Super Phosphate)
+25.0,57.05,24.58,Red,Cotton,22.4,23.59,18.1,NPK 20-20-20
+18.23,71.9,32.64,Clayey,Pulses,19.6,17.1,16.93,NPK 20-20-20
+28.19,55.01,54.75,Sandy,Groundnut,11.52,5.24,17.49,SSP (Single Super Phosphate)
+17.66,60.78,70.29,Loamy,Tobacco,43.45,13.68,16.66,Urea
+21.58,56.36,45.09,Red,Pulses,24.47,23.87,20.05,NPK 20-20-20
+27.59,72.93,67.36,Loamy,Wheat,18.25,21.58,22.21,NPK 20-20-20
+25.01,55.98,55.41,Red,Groundnut,11.8,8.4,14.04,SSP (Single Super Phosphate)
+29.35,72.11,43.77,Clayey,Sugarcane,4.65,36.66,7.77,Potassium Chloride
+21.72,74.73,58.49,Black,Wheat,13.57,31.48,24.86,NPK 10-26-26
+21.2,42.07,46.23,Red,Groundnut,42.65,10.13,15.59,Urea
+25.43,64.17,22.74,Black,Tobacco,21.34,7.54,36.06,DAP
+32.46,53.6,64.1,Sandy,Cotton,16.85,9.3,40.13,DAP
+23.31,88.4,24.68,Clayey,Cotton,3.74,42.01,6.97,Potassium Chloride
+30.08,61.95,51.81,Red,Pulses,3.37,37.33,4.43,Potassium Chloride
+34.58,84.34,26.58,Black,Pulses,3.3,32.6,5.91,Potassium Chloride
+31.25,87.54,34.91,Red,Cotton,7.71,42.91,6.41,Potassium Chloride
+32.08,78.4,44.01,Black,Tobacco,22.28,11.71,40.19,DAP
+26.45,73.69,22.48,Red,Tobacco,9.58,7.56,15.9,SSP (Single Super Phosphate)
+26.01,63.13,31.91,Loamy,Cotton,24.88,15.47,18.89,NPK 20-20-20
+33.91,79.1,54.28,Sandy,Barley,16.83,7.86,47.39,DAP
+29.6,69.07,64.98,Black,Cotton,42.42,13.72,10.69,Urea
+13.45,30.03,62.91,Loamy,Soybean,20.08,6.63,7.07,Ammonium Sulphate
+10.46,33.95,73.2,Black,Sugarcane,21.25,5.53,6.77,Ammonium Sulphate
+22.66,52.52,33.33,Black,Tobacco,46.36,5.07,22.91,Urea
+30.82,68.59,35.13,Black,Rice,3.12,40.53,4.91,Potassium Chloride
+19.27,73.01,72.04,Black,Rice,21.55,15.0,17.83,NPK 20-20-20
+29.27,66.3,74.76,Red,Sugarcane,9.07,7.7,19.27,SSP (Single Super Phosphate)
+21.55,62.06,63.74,Black,Wheat,23.32,11.5,48.78,DAP
+24.84,64.93,34.21,Sandy,Cotton,4.55,40.68,6.08,Potassium Chloride
+30.11,73.42,39.55,Black,Barley,11.48,21.62,22.68,NPK 10-26-26
+24.67,69.35,38.47,Black,Barley,5.48,49.09,5.15,Potassium Chloride
+27.34,61.27,51.65,Red,Groundnut,16.4,19.25,15.96,NPK 20-20-20
+23.24,64.81,25.13,Red,Cotton,4.85,41.44,3.49,Potassium Chloride
+23.14,80.49,54.83,Black,Tobacco,3.5,43.51,7.11,Potassium Chloride
+18.23,57.91,72.5,Clayey,Wheat,18.21,21.42,24.64,NPK 20-20-20
+24.33,68.97,25.85,Loamy,Maize,10.64,10.96,19.11,SSP (Single Super Phosphate)
+19.72,54.14,69.3,Red,Pulses,46.38,12.1,18.11,Urea
